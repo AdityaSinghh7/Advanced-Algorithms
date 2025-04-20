@@ -1,29 +1,31 @@
-def shell_sort_5(a: list[int]) -> list[int]:
-    
-    arr = a[:]  
-    n = len(arr)
-    if n <= 1:
-        return arr
-    gaps: list[int] = []
+def a003462_sequence(n):
+    gaps = []
     k = 1
     while True:
-        gap = (3**k - 1) // 2
-        if gap >= n:
+        value = (3**k - 1) // 2
+        if value < n:
+            gaps.append(value)
+        else:
             break
-        gaps.append(gap)
         k += 1
+    
+    return gaps[::-1] 
 
+def shell_sort5(arr: list[int]) -> list[int]:
     
-    for gap in reversed(gaps):
+    n = len(arr)
+    gaps = a003462_sequence(n)
     
+    for gap in gaps:
         for i in range(gap, n):
             temp = arr[i]
             j = i
+            
             while j >= gap and arr[j - gap] > temp:
                 arr[j] = arr[j - gap]
                 j -= gap
-            arr[j] = temp
 
+            arr[j] = temp
     return arr
 
 

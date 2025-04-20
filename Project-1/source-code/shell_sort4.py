@@ -1,39 +1,31 @@
 import math
-def shell_sort_4(a: list[int]) -> list[int]:
+def a003586_sequence(n):
+    gaps = set()
+    p = 0
+    while 2**p < n:
+        q = 0
+        while 2**p * 3**q < n:
+            gaps.add(2**p * 3**q)
+            q += 1
+        p += 1
     
-    arr = a[:]
+    return sorted(gaps, reverse=True)
+
+def shell_sort4(arr: list[int]) -> list[int]:
+    
     n = len(arr)
-    if n <= 1:
-        return arr
-
-    
-    smooth = set()
-    max_i = int(math.log(n, 2))
-    for i in range(max_i + 1):
-        pow2 = 2**i
-        if pow2 >= n:
-            break
-        max_j = int(math.log(n / pow2, 3))
-        for j in range(max_j + 1):
-            gap = pow2 * (3**j)
-            if gap < n:
-                smooth.add(gap)
-
-    
-    gaps = sorted(smooth, reverse=True)
-    if gaps[-1] != 1:
-        gaps.append(1)
-
+    gaps = a003586_sequence(n)
     
     for gap in gaps:
         for i in range(gap, n):
             temp = arr[i]
             j = i
+            
             while j >= gap and arr[j - gap] > temp:
                 arr[j] = arr[j - gap]
                 j -= gap
-            arr[j] = temp
 
+            arr[j] = temp
     return arr
 
 # if __name__ == "__main__":

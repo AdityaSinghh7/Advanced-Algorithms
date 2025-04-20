@@ -1,6 +1,6 @@
 import math
 
-def shell_sort_3(a: list[int]) -> list[int]:
+def shell_sort3(a: list[int]) -> list[int]:
     
     n = len(a)
     if n <= 1:
