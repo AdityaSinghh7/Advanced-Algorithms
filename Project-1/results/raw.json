@@ -1,0 +1,9263 @@
+[
+  {
+    "algorithm": "Insertion",
+    "dist": "Uniform",
+    "size": 10,
+    "run": 0,
+    "time": 4.082918167114258e-06
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Uniform",
+    "size": 10,
+    "run": 1,
+    "time": 4.458008334040642e-06
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Uniform",
+    "size": 10,
+    "run": 2,
+    "time": 2.2079329937696457e-06
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Uniform",
+    "size": 10,
+    "run": 3,
+    "time": 2.00001522898674e-06
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Uniform",
+    "size": 10,
+    "run": 4,
+    "time": 2.1669548004865646e-06
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Uniform",
+    "size": 10,
+    "run": 5,
+    "time": 1.584063284099102e-06
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Uniform",
+    "size": 10,
+    "run": 6,
+    "time": 2.625049091875553e-06
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Uniform",
+    "size": 10,
+    "run": 0,
+    "time": 1.091696321964264e-05
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Uniform",
+    "size": 10,
+    "run": 1,
+    "time": 5.749985575675964e-06
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Uniform",
+    "size": 10,
+    "run": 2,
+    "time": 4.500034265220165e-06
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Uniform",
+    "size": 10,
+    "run": 3,
+    "time": 3.625056706368923e-06
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Uniform",
+    "size": 10,
+    "run": 4,
+    "time": 3.4580007195472717e-06
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Uniform",
+    "size": 10,
+    "run": 5,
+    "time": 3.708992153406143e-06
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Uniform",
+    "size": 10,
+    "run": 6,
+    "time": 3.999914042651653e-06
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Uniform",
+    "size": 10,
+    "run": 0,
+    "time": 4.165922291576862e-06
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Uniform",
+    "size": 10,
+    "run": 1,
+    "time": 2.9170187190175056e-06
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Uniform",
+    "size": 10,
+    "run": 2,
+    "time": 2.5420449674129486e-06
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Uniform",
+    "size": 10,
+    "run": 3,
+    "time": 2.125045284628868e-06
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Uniform",
+    "size": 10,
+    "run": 4,
+    "time": 2.499902620911598e-06
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Uniform",
+    "size": 10,
+    "run": 5,
+    "time": 2.374988980591297e-06
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Uniform",
+    "size": 10,
+    "run": 6,
+    "time": 2.374988980591297e-06
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Uniform",
+    "size": 10,
+    "run": 0,
+    "time": 4.58303838968277e-06
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Uniform",
+    "size": 10,
+    "run": 1,
+    "time": 3.08395829051733e-06
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Uniform",
+    "size": 10,
+    "run": 2,
+    "time": 2.6670750230550766e-06
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Uniform",
+    "size": 10,
+    "run": 3,
+    "time": 2.2919848561286926e-06
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Uniform",
+    "size": 10,
+    "run": 4,
+    "time": 2.5830231606960297e-06
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Uniform",
+    "size": 10,
+    "run": 5,
+    "time": 2.5830231606960297e-06
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Uniform",
+    "size": 10,
+    "run": 6,
+    "time": 2.7919886633753777e-06
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Uniform",
+    "size": 10,
+    "run": 0,
+    "time": 5.167094059288502e-06
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Uniform",
+    "size": 10,
+    "run": 1,
+    "time": 3.4999102354049683e-06
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Uniform",
+    "size": 10,
+    "run": 2,
+    "time": 2.9579969123005867e-06
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Uniform",
+    "size": 10,
+    "run": 3,
+    "time": 2.500019036233425e-06
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Uniform",
+    "size": 10,
+    "run": 4,
+    "time": 2.749962732195854e-06
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Uniform",
+    "size": 10,
+    "run": 5,
+    "time": 2.750079147517681e-06
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Uniform",
+    "size": 10,
+    "run": 6,
+    "time": 2.7919886633753777e-06
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Uniform",
+    "size": 10,
+    "run": 0,
+    "time": 8.082948625087738e-06
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Uniform",
+    "size": 10,
+    "run": 1,
+    "time": 5.542067810893059e-06
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Uniform",
+    "size": 10,
+    "run": 2,
+    "time": 5.292007699608803e-06
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Uniform",
+    "size": 10,
+    "run": 3,
+    "time": 5.00003807246685e-06
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Uniform",
+    "size": 10,
+    "run": 4,
+    "time": 4.500034265220165e-06
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Uniform",
+    "size": 10,
+    "run": 5,
+    "time": 4.541012458503246e-06
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Uniform",
+    "size": 10,
+    "run": 6,
+    "time": 4.584086127579212e-06
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Uniform",
+    "size": 10,
+    "run": 0,
+    "time": 3.374996595084667e-06
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Uniform",
+    "size": 10,
+    "run": 1,
+    "time": 2.5420449674129486e-06
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Uniform",
+    "size": 10,
+    "run": 2,
+    "time": 2.5420449674129486e-06
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Uniform",
+    "size": 10,
+    "run": 3,
+    "time": 2.6659108698368073e-06
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Uniform",
+    "size": 10,
+    "run": 4,
+    "time": 2.250075340270996e-06
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Uniform",
+    "size": 10,
+    "run": 5,
+    "time": 1.9579892978072166e-06
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Uniform",
+    "size": 10,
+    "run": 6,
+    "time": 2.2909371182322502e-06
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Uniform",
+    "size": 100,
+    "run": 0,
+    "time": 0.00018304097466170788
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Uniform",
+    "size": 100,
+    "run": 1,
+    "time": 0.00016175000928342342
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Uniform",
+    "size": 100,
+    "run": 2,
+    "time": 0.00015641702339053154
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Uniform",
+    "size": 100,
+    "run": 3,
+    "time": 0.00014812499284744263
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Uniform",
+    "size": 100,
+    "run": 4,
+    "time": 0.0001533749746158719
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Uniform",
+    "size": 100,
+    "run": 5,
+    "time": 0.00016862503252923489
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Uniform",
+    "size": 100,
+    "run": 6,
+    "time": 0.00013429101090878248
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Uniform",
+    "size": 100,
+    "run": 0,
+    "time": 6.779201794415712e-05
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Uniform",
+    "size": 100,
+    "run": 1,
+    "time": 5.9833982959389687e-05
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Uniform",
+    "size": 100,
+    "run": 2,
+    "time": 5.925004370510578e-05
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Uniform",
+    "size": 100,
+    "run": 3,
+    "time": 5.8124889619648457e-05
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Uniform",
+    "size": 100,
+    "run": 4,
+    "time": 5.820905789732933e-05
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Uniform",
+    "size": 100,
+    "run": 5,
+    "time": 5.766702815890312e-05
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Uniform",
+    "size": 100,
+    "run": 6,
+    "time": 5.783303640782833e-05
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Uniform",
+    "size": 100,
+    "run": 0,
+    "time": 7.383304182440042e-05
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Uniform",
+    "size": 100,
+    "run": 1,
+    "time": 6.275007035583258e-05
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Uniform",
+    "size": 100,
+    "run": 2,
+    "time": 5.47909876331687e-05
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Uniform",
+    "size": 100,
+    "run": 3,
+    "time": 6.008311174809933e-05
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Uniform",
+    "size": 100,
+    "run": 4,
+    "time": 5.620904266834259e-05
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Uniform",
+    "size": 100,
+    "run": 5,
+    "time": 6.062502507120371e-05
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Uniform",
+    "size": 100,
+    "run": 6,
+    "time": 5.483406130224466e-05
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Uniform",
+    "size": 100,
+    "run": 0,
+    "time": 5.3459079936146736e-05
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Uniform",
+    "size": 100,
+    "run": 1,
+    "time": 5.512498319149017e-05
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Uniform",
+    "size": 100,
+    "run": 2,
+    "time": 5.383300594985485e-05
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Uniform",
+    "size": 100,
+    "run": 3,
+    "time": 5.062494892627001e-05
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Uniform",
+    "size": 100,
+    "run": 4,
+    "time": 5.741708446294069e-05
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Uniform",
+    "size": 100,
+    "run": 5,
+    "time": 5.708402022719383e-05
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Uniform",
+    "size": 100,
+    "run": 6,
+    "time": 5.100003909319639e-05
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Uniform",
+    "size": 100,
+    "run": 0,
+    "time": 5.6124990805983543e-05
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Uniform",
+    "size": 100,
+    "run": 1,
+    "time": 5.7292054407298565e-05
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Uniform",
+    "size": 100,
+    "run": 2,
+    "time": 6.054108962416649e-05
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Uniform",
+    "size": 100,
+    "run": 3,
+    "time": 5.470798350870609e-05
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Uniform",
+    "size": 100,
+    "run": 4,
+    "time": 5.4750009439885616e-05
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Uniform",
+    "size": 100,
+    "run": 5,
+    "time": 5.6875054724514484e-05
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Uniform",
+    "size": 100,
+    "run": 6,
+    "time": 5.625002086162567e-05
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Uniform",
+    "size": 100,
+    "run": 0,
+    "time": 0.00010299996938556433
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Uniform",
+    "size": 100,
+    "run": 1,
+    "time": 9.975000284612179e-05
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Uniform",
+    "size": 100,
+    "run": 2,
+    "time": 9.81249613687396e-05
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Uniform",
+    "size": 100,
+    "run": 3,
+    "time": 9.899993892759085e-05
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Uniform",
+    "size": 100,
+    "run": 4,
+    "time": 9.724998380988836e-05
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Uniform",
+    "size": 100,
+    "run": 5,
+    "time": 9.254098404198885e-05
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Uniform",
+    "size": 100,
+    "run": 6,
+    "time": 9.220791980624199e-05
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Uniform",
+    "size": 100,
+    "run": 0,
+    "time": 5.270796827971935e-05
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Uniform",
+    "size": 100,
+    "run": 1,
+    "time": 4.970806185156107e-05
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Uniform",
+    "size": 100,
+    "run": 2,
+    "time": 5.308305844664574e-05
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Uniform",
+    "size": 100,
+    "run": 3,
+    "time": 4.458392504602671e-05
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Uniform",
+    "size": 100,
+    "run": 4,
+    "time": 4.8208050429821014e-05
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Uniform",
+    "size": 100,
+    "run": 5,
+    "time": 5.0332979299128056e-05
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Uniform",
+    "size": 100,
+    "run": 6,
+    "time": 4.9749971367418766e-05
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Uniform",
+    "size": 500,
+    "run": 0,
+    "time": 0.003902208060026169
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Uniform",
+    "size": 500,
+    "run": 1,
+    "time": 0.004039249964989722
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Uniform",
+    "size": 500,
+    "run": 2,
+    "time": 0.004198167007416487
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Uniform",
+    "size": 500,
+    "run": 3,
+    "time": 0.004008084069937468
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Uniform",
+    "size": 500,
+    "run": 4,
+    "time": 0.004206374986097217
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Uniform",
+    "size": 500,
+    "run": 5,
+    "time": 0.004082416067831218
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Uniform",
+    "size": 500,
+    "run": 6,
+    "time": 0.0037288330495357513
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Uniform",
+    "size": 500,
+    "run": 0,
+    "time": 0.0005446249851956964
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Uniform",
+    "size": 500,
+    "run": 1,
+    "time": 0.00044716696720570326
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Uniform",
+    "size": 500,
+    "run": 2,
+    "time": 0.00044712494127452374
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Uniform",
+    "size": 500,
+    "run": 3,
+    "time": 0.00044916698243469
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Uniform",
+    "size": 500,
+    "run": 4,
+    "time": 0.00045670801773667336
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Uniform",
+    "size": 500,
+    "run": 5,
+    "time": 0.0004463749937713146
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Uniform",
+    "size": 500,
+    "run": 6,
+    "time": 0.00044404203072190285
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Uniform",
+    "size": 500,
+    "run": 0,
+    "time": 0.0004414160503074527
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Uniform",
+    "size": 500,
+    "run": 1,
+    "time": 0.0004295830149203539
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Uniform",
+    "size": 500,
+    "run": 2,
+    "time": 0.0004473330918699503
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Uniform",
+    "size": 500,
+    "run": 3,
+    "time": 0.0004435409791767597
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Uniform",
+    "size": 500,
+    "run": 4,
+    "time": 0.0004286249168217182
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Uniform",
+    "size": 500,
+    "run": 5,
+    "time": 0.0004309999058023095
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Uniform",
+    "size": 500,
+    "run": 6,
+    "time": 0.0004284169990569353
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Uniform",
+    "size": 500,
+    "run": 0,
+    "time": 0.0004202499985694885
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Uniform",
+    "size": 500,
+    "run": 1,
+    "time": 0.00040625000838190317
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Uniform",
+    "size": 500,
+    "run": 2,
+    "time": 0.00043699995148926973
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Uniform",
+    "size": 500,
+    "run": 3,
+    "time": 0.00040970800910145044
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Uniform",
+    "size": 500,
+    "run": 4,
+    "time": 0.00042675004806369543
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Uniform",
+    "size": 500,
+    "run": 5,
+    "time": 0.0004699169658124447
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Uniform",
+    "size": 500,
+    "run": 6,
+    "time": 0.00043708295561373234
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Uniform",
+    "size": 500,
+    "run": 0,
+    "time": 0.0004733339883387089
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Uniform",
+    "size": 500,
+    "run": 1,
+    "time": 0.0004535410553216934
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Uniform",
+    "size": 500,
+    "run": 2,
+    "time": 0.0004570829914882779
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Uniform",
+    "size": 500,
+    "run": 3,
+    "time": 0.0004754170076921582
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Uniform",
+    "size": 500,
+    "run": 4,
+    "time": 0.00042625004425644875
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Uniform",
+    "size": 500,
+    "run": 5,
+    "time": 0.0004421659978106618
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Uniform",
+    "size": 500,
+    "run": 6,
+    "time": 0.000572916935198009
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Uniform",
+    "size": 500,
+    "run": 0,
+    "time": 0.0008776660542935133
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Uniform",
+    "size": 500,
+    "run": 1,
+    "time": 0.0008654999546706676
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Uniform",
+    "size": 500,
+    "run": 2,
+    "time": 0.0008930409094318748
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Uniform",
+    "size": 500,
+    "run": 3,
+    "time": 0.0008756669703871012
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Uniform",
+    "size": 500,
+    "run": 4,
+    "time": 0.0008772090077400208
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Uniform",
+    "size": 500,
+    "run": 5,
+    "time": 0.0008672920521348715
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Uniform",
+    "size": 500,
+    "run": 6,
+    "time": 0.0009149160468950868
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Uniform",
+    "size": 500,
+    "run": 0,
+    "time": 0.0004995830822736025
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Uniform",
+    "size": 500,
+    "run": 1,
+    "time": 0.00043566699605435133
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Uniform",
+    "size": 500,
+    "run": 2,
+    "time": 0.0004909170093014836
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Uniform",
+    "size": 500,
+    "run": 3,
+    "time": 0.00044949993025511503
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Uniform",
+    "size": 500,
+    "run": 4,
+    "time": 0.0004036249592900276
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Uniform",
+    "size": 500,
+    "run": 5,
+    "time": 0.00039137492422014475
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Uniform",
+    "size": 500,
+    "run": 6,
+    "time": 0.0003879999276250601
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Uniform",
+    "size": 1000,
+    "run": 0,
+    "time": 0.017177875037305057
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Uniform",
+    "size": 1000,
+    "run": 1,
+    "time": 0.016957207932136953
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Uniform",
+    "size": 1000,
+    "run": 2,
+    "time": 0.017253665952011943
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Uniform",
+    "size": 1000,
+    "run": 3,
+    "time": 0.016683290945366025
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Uniform",
+    "size": 1000,
+    "run": 4,
+    "time": 0.016525625018402934
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Uniform",
+    "size": 1000,
+    "run": 5,
+    "time": 0.01649504096712917
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Uniform",
+    "size": 1000,
+    "run": 6,
+    "time": 0.01648183399811387
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Uniform",
+    "size": 1000,
+    "run": 0,
+    "time": 0.0011225419584661722
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Uniform",
+    "size": 1000,
+    "run": 1,
+    "time": 0.00105291698127985
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Uniform",
+    "size": 1000,
+    "run": 2,
+    "time": 0.001001209020614624
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Uniform",
+    "size": 1000,
+    "run": 3,
+    "time": 0.0010033330181613564
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Uniform",
+    "size": 1000,
+    "run": 4,
+    "time": 0.0009992499835789204
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Uniform",
+    "size": 1000,
+    "run": 5,
+    "time": 0.0010245000012218952
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Uniform",
+    "size": 1000,
+    "run": 6,
+    "time": 0.0011316669406369328
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Uniform",
+    "size": 1000,
+    "run": 0,
+    "time": 0.001148542040027678
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Uniform",
+    "size": 1000,
+    "run": 1,
+    "time": 0.0011103750439360738
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Uniform",
+    "size": 1000,
+    "run": 2,
+    "time": 0.0010372500400990248
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Uniform",
+    "size": 1000,
+    "run": 3,
+    "time": 0.0010961670195683837
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Uniform",
+    "size": 1000,
+    "run": 4,
+    "time": 0.0010844169883057475
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Uniform",
+    "size": 1000,
+    "run": 5,
+    "time": 0.001117000007070601
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Uniform",
+    "size": 1000,
+    "run": 6,
+    "time": 0.0011099160183221102
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Uniform",
+    "size": 1000,
+    "run": 0,
+    "time": 0.0011866670101881027
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Uniform",
+    "size": 1000,
+    "run": 1,
+    "time": 0.0010278749978169799
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Uniform",
+    "size": 1000,
+    "run": 2,
+    "time": 0.0010809589875862002
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Uniform",
+    "size": 1000,
+    "run": 3,
+    "time": 0.001021499978378415
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Uniform",
+    "size": 1000,
+    "run": 4,
+    "time": 0.001017124974168837
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Uniform",
+    "size": 1000,
+    "run": 5,
+    "time": 0.0011120840208604932
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Uniform",
+    "size": 1000,
+    "run": 6,
+    "time": 0.0011120829731225967
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Uniform",
+    "size": 1000,
+    "run": 0,
+    "time": 0.001071334001608193
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Uniform",
+    "size": 1000,
+    "run": 1,
+    "time": 0.0011661250609904528
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Uniform",
+    "size": 1000,
+    "run": 2,
+    "time": 0.0010357500286772847
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Uniform",
+    "size": 1000,
+    "run": 3,
+    "time": 0.0010666659800335765
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Uniform",
+    "size": 1000,
+    "run": 4,
+    "time": 0.0010442909551784396
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Uniform",
+    "size": 1000,
+    "run": 5,
+    "time": 0.0010359580628573895
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Uniform",
+    "size": 1000,
+    "run": 6,
+    "time": 0.0010458329925313592
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Uniform",
+    "size": 1000,
+    "run": 0,
+    "time": 0.0021801250986754894
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Uniform",
+    "size": 1000,
+    "run": 1,
+    "time": 0.0021527919452637434
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Uniform",
+    "size": 1000,
+    "run": 2,
+    "time": 0.0022939579794183373
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Uniform",
+    "size": 1000,
+    "run": 3,
+    "time": 0.002210916019976139
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Uniform",
+    "size": 1000,
+    "run": 4,
+    "time": 0.0021689999848604202
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Uniform",
+    "size": 1000,
+    "run": 5,
+    "time": 0.0021905830362811685
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Uniform",
+    "size": 1000,
+    "run": 6,
+    "time": 0.0022319169947877526
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Uniform",
+    "size": 1000,
+    "run": 0,
+    "time": 0.0011392500018700957
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Uniform",
+    "size": 1000,
+    "run": 1,
+    "time": 0.0009934160625562072
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Uniform",
+    "size": 1000,
+    "run": 2,
+    "time": 0.0009732089238241315
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Uniform",
+    "size": 1000,
+    "run": 3,
+    "time": 0.0010257079266011715
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Uniform",
+    "size": 1000,
+    "run": 4,
+    "time": 0.0009490000084042549
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Uniform",
+    "size": 1000,
+    "run": 5,
+    "time": 0.0009642499499022961
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Uniform",
+    "size": 1000,
+    "run": 6,
+    "time": 0.0009815419325605035
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Uniform",
+    "size": 2500,
+    "run": 0,
+    "time": 0.10627391701564193
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Uniform",
+    "size": 2500,
+    "run": 1,
+    "time": 0.1047847910085693
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Uniform",
+    "size": 2500,
+    "run": 2,
+    "time": 0.10608829092234373
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Uniform",
+    "size": 2500,
+    "run": 3,
+    "time": 0.1063595829764381
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Uniform",
+    "size": 2500,
+    "run": 4,
+    "time": 0.1070457500172779
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Uniform",
+    "size": 2500,
+    "run": 5,
+    "time": 0.10685670806560665
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Uniform",
+    "size": 2500,
+    "run": 6,
+    "time": 0.10486670793034136
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Uniform",
+    "size": 2500,
+    "run": 0,
+    "time": 0.0030241250060498714
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Uniform",
+    "size": 2500,
+    "run": 1,
+    "time": 0.0029804579680785537
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Uniform",
+    "size": 2500,
+    "run": 2,
+    "time": 0.003063957905396819
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Uniform",
+    "size": 2500,
+    "run": 3,
+    "time": 0.003020124975591898
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Uniform",
+    "size": 2500,
+    "run": 4,
+    "time": 0.0029847080586478114
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Uniform",
+    "size": 2500,
+    "run": 5,
+    "time": 0.0032076670322567225
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Uniform",
+    "size": 2500,
+    "run": 6,
+    "time": 0.0032132079359143972
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Uniform",
+    "size": 2500,
+    "run": 0,
+    "time": 0.0034529579570516944
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Uniform",
+    "size": 2500,
+    "run": 1,
+    "time": 0.0034236250212416053
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Uniform",
+    "size": 2500,
+    "run": 2,
+    "time": 0.0036407089792191982
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Uniform",
+    "size": 2500,
+    "run": 3,
+    "time": 0.00358158303424716
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Uniform",
+    "size": 2500,
+    "run": 4,
+    "time": 0.0033684169175103307
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Uniform",
+    "size": 2500,
+    "run": 5,
+    "time": 0.0035236249677836895
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Uniform",
+    "size": 2500,
+    "run": 6,
+    "time": 0.003307666047476232
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Uniform",
+    "size": 2500,
+    "run": 0,
+    "time": 0.0033491250360384583
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Uniform",
+    "size": 2500,
+    "run": 1,
+    "time": 0.003300416050478816
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Uniform",
+    "size": 2500,
+    "run": 2,
+    "time": 0.0032007499830797315
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Uniform",
+    "size": 2500,
+    "run": 3,
+    "time": 0.0032692080130800605
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Uniform",
+    "size": 2500,
+    "run": 4,
+    "time": 0.0033402909757569432
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Uniform",
+    "size": 2500,
+    "run": 5,
+    "time": 0.0033257920295000076
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Uniform",
+    "size": 2500,
+    "run": 6,
+    "time": 0.003178916987963021
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Uniform",
+    "size": 2500,
+    "run": 0,
+    "time": 0.003350459039211273
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Uniform",
+    "size": 2500,
+    "run": 1,
+    "time": 0.0033703340450301766
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Uniform",
+    "size": 2500,
+    "run": 2,
+    "time": 0.003441666951403022
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Uniform",
+    "size": 2500,
+    "run": 3,
+    "time": 0.003653458086773753
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Uniform",
+    "size": 2500,
+    "run": 4,
+    "time": 0.003354166983626783
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Uniform",
+    "size": 2500,
+    "run": 5,
+    "time": 0.0032324589556083083
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Uniform",
+    "size": 2500,
+    "run": 6,
+    "time": 0.003430624958127737
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Uniform",
+    "size": 2500,
+    "run": 0,
+    "time": 0.007023083046078682
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Uniform",
+    "size": 2500,
+    "run": 1,
+    "time": 0.007015874958597124
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Uniform",
+    "size": 2500,
+    "run": 2,
+    "time": 0.0071063750656321645
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Uniform",
+    "size": 2500,
+    "run": 3,
+    "time": 0.007032540976069868
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Uniform",
+    "size": 2500,
+    "run": 4,
+    "time": 0.007594832917675376
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Uniform",
+    "size": 2500,
+    "run": 5,
+    "time": 0.006994292023591697
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Uniform",
+    "size": 2500,
+    "run": 6,
+    "time": 0.007015167037025094
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Uniform",
+    "size": 2500,
+    "run": 0,
+    "time": 0.0030756249325349927
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Uniform",
+    "size": 2500,
+    "run": 1,
+    "time": 0.0031192090827971697
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Uniform",
+    "size": 2500,
+    "run": 2,
+    "time": 0.0030619160970672965
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Uniform",
+    "size": 2500,
+    "run": 3,
+    "time": 0.003149666008539498
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Uniform",
+    "size": 2500,
+    "run": 4,
+    "time": 0.0030460829148069024
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Uniform",
+    "size": 2500,
+    "run": 5,
+    "time": 0.002946416032500565
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Uniform",
+    "size": 2500,
+    "run": 6,
+    "time": 0.0029562090057879686
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Uniform",
+    "size": 5000,
+    "run": 0,
+    "time": 0.4408090419601649
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Uniform",
+    "size": 5000,
+    "run": 1,
+    "time": 0.4435101670678705
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Uniform",
+    "size": 5000,
+    "run": 2,
+    "time": 0.44927020801696926
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Uniform",
+    "size": 5000,
+    "run": 3,
+    "time": 0.436924709007144
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Uniform",
+    "size": 5000,
+    "run": 4,
+    "time": 0.4415465829661116
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Uniform",
+    "size": 5000,
+    "run": 5,
+    "time": 0.448797290911898
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Uniform",
+    "size": 5000,
+    "run": 6,
+    "time": 0.4377788749989122
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Uniform",
+    "size": 5000,
+    "run": 0,
+    "time": 0.006722291000187397
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Uniform",
+    "size": 5000,
+    "run": 1,
+    "time": 0.0068971250439062715
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Uniform",
+    "size": 5000,
+    "run": 2,
+    "time": 0.006792415981180966
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Uniform",
+    "size": 5000,
+    "run": 3,
+    "time": 0.006654707947745919
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Uniform",
+    "size": 5000,
+    "run": 4,
+    "time": 0.006767291924916208
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Uniform",
+    "size": 5000,
+    "run": 5,
+    "time": 0.006705167004838586
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Uniform",
+    "size": 5000,
+    "run": 6,
+    "time": 0.006578249973244965
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Uniform",
+    "size": 5000,
+    "run": 0,
+    "time": 0.007830500020645559
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Uniform",
+    "size": 5000,
+    "run": 1,
+    "time": 0.008053208002820611
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Uniform",
+    "size": 5000,
+    "run": 2,
+    "time": 0.008190166088752449
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Uniform",
+    "size": 5000,
+    "run": 3,
+    "time": 0.008041833061724901
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Uniform",
+    "size": 5000,
+    "run": 4,
+    "time": 0.008033833932131529
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Uniform",
+    "size": 5000,
+    "run": 5,
+    "time": 0.007767749950289726
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Uniform",
+    "size": 5000,
+    "run": 6,
+    "time": 0.007962167030200362
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Uniform",
+    "size": 5000,
+    "run": 0,
+    "time": 0.007765124901197851
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Uniform",
+    "size": 5000,
+    "run": 1,
+    "time": 0.007724417024292052
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Uniform",
+    "size": 5000,
+    "run": 2,
+    "time": 0.007837207987904549
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Uniform",
+    "size": 5000,
+    "run": 3,
+    "time": 0.00773641699925065
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Uniform",
+    "size": 5000,
+    "run": 4,
+    "time": 0.007546333945356309
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Uniform",
+    "size": 5000,
+    "run": 5,
+    "time": 0.0073538749711588025
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Uniform",
+    "size": 5000,
+    "run": 6,
+    "time": 0.007679125061258674
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Uniform",
+    "size": 5000,
+    "run": 0,
+    "time": 0.007553666015155613
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Uniform",
+    "size": 5000,
+    "run": 1,
+    "time": 0.007599374977871776
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Uniform",
+    "size": 5000,
+    "run": 2,
+    "time": 0.00798916700296104
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Uniform",
+    "size": 5000,
+    "run": 3,
+    "time": 0.007522541913203895
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Uniform",
+    "size": 5000,
+    "run": 4,
+    "time": 0.007343500037677586
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Uniform",
+    "size": 5000,
+    "run": 5,
+    "time": 0.007638000068254769
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Uniform",
+    "size": 5000,
+    "run": 6,
+    "time": 0.007553666015155613
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Uniform",
+    "size": 5000,
+    "run": 0,
+    "time": 0.016943875001743436
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Uniform",
+    "size": 5000,
+    "run": 1,
+    "time": 0.01684149994980544
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Uniform",
+    "size": 5000,
+    "run": 2,
+    "time": 0.01672883308492601
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Uniform",
+    "size": 5000,
+    "run": 3,
+    "time": 0.01647412497550249
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Uniform",
+    "size": 5000,
+    "run": 4,
+    "time": 0.01671175006777048
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Uniform",
+    "size": 5000,
+    "run": 5,
+    "time": 0.01679462508764118
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Uniform",
+    "size": 5000,
+    "run": 6,
+    "time": 0.01663929200731218
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Uniform",
+    "size": 5000,
+    "run": 0,
+    "time": 0.007164707989431918
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Uniform",
+    "size": 5000,
+    "run": 1,
+    "time": 0.007176875020377338
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Uniform",
+    "size": 5000,
+    "run": 2,
+    "time": 0.007145166047848761
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Uniform",
+    "size": 5000,
+    "run": 3,
+    "time": 0.007411041064187884
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Uniform",
+    "size": 5000,
+    "run": 4,
+    "time": 0.0070560830645263195
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Uniform",
+    "size": 5000,
+    "run": 5,
+    "time": 0.007178583065979183
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Uniform",
+    "size": 5000,
+    "run": 6,
+    "time": 0.007026332896202803
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Uniform",
+    "size": 7500,
+    "run": 0,
+    "time": 1.022514707990922
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Uniform",
+    "size": 7500,
+    "run": 1,
+    "time": 1.0370102500310168
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Uniform",
+    "size": 7500,
+    "run": 2,
+    "time": 1.0190351669443771
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Uniform",
+    "size": 7500,
+    "run": 3,
+    "time": 0.968684499966912
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Uniform",
+    "size": 7500,
+    "run": 4,
+    "time": 0.970370874973014
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Uniform",
+    "size": 7500,
+    "run": 5,
+    "time": 0.9800982500892133
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Uniform",
+    "size": 7500,
+    "run": 6,
+    "time": 0.9956040839897469
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Uniform",
+    "size": 7500,
+    "run": 0,
+    "time": 0.010889458004385233
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Uniform",
+    "size": 7500,
+    "run": 1,
+    "time": 0.011159999994561076
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Uniform",
+    "size": 7500,
+    "run": 2,
+    "time": 0.011214792029932141
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Uniform",
+    "size": 7500,
+    "run": 3,
+    "time": 0.010826041107065976
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Uniform",
+    "size": 7500,
+    "run": 4,
+    "time": 0.011169500066898763
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Uniform",
+    "size": 7500,
+    "run": 5,
+    "time": 0.011326584033668041
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Uniform",
+    "size": 7500,
+    "run": 6,
+    "time": 0.011429667007178068
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Uniform",
+    "size": 7500,
+    "run": 0,
+    "time": 0.01320699998177588
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Uniform",
+    "size": 7500,
+    "run": 1,
+    "time": 0.012585958000272512
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Uniform",
+    "size": 7500,
+    "run": 2,
+    "time": 0.012854750035330653
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Uniform",
+    "size": 7500,
+    "run": 3,
+    "time": 0.012683917069807649
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Uniform",
+    "size": 7500,
+    "run": 4,
+    "time": 0.012619291082955897
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Uniform",
+    "size": 7500,
+    "run": 5,
+    "time": 0.012634916929528117
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Uniform",
+    "size": 7500,
+    "run": 6,
+    "time": 0.012523832963779569
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Uniform",
+    "size": 7500,
+    "run": 0,
+    "time": 0.012989958049729466
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Uniform",
+    "size": 7500,
+    "run": 1,
+    "time": 0.01294666703324765
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Uniform",
+    "size": 7500,
+    "run": 2,
+    "time": 0.01299566705711186
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Uniform",
+    "size": 7500,
+    "run": 3,
+    "time": 0.012459374964237213
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Uniform",
+    "size": 7500,
+    "run": 4,
+    "time": 0.012802458018995821
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Uniform",
+    "size": 7500,
+    "run": 5,
+    "time": 0.01258725009392947
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Uniform",
+    "size": 7500,
+    "run": 6,
+    "time": 0.012663875008001924
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Uniform",
+    "size": 7500,
+    "run": 0,
+    "time": 0.012359249987639487
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Uniform",
+    "size": 7500,
+    "run": 1,
+    "time": 0.012373749981634319
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Uniform",
+    "size": 7500,
+    "run": 2,
+    "time": 0.012657625018619001
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Uniform",
+    "size": 7500,
+    "run": 3,
+    "time": 0.01202304195612669
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Uniform",
+    "size": 7500,
+    "run": 4,
+    "time": 0.012574416934512556
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Uniform",
+    "size": 7500,
+    "run": 5,
+    "time": 0.012877917033620179
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Uniform",
+    "size": 7500,
+    "run": 6,
+    "time": 0.012314749998040497
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Uniform",
+    "size": 7500,
+    "run": 0,
+    "time": 0.02783124998677522
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Uniform",
+    "size": 7500,
+    "run": 1,
+    "time": 0.028046000050380826
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Uniform",
+    "size": 7500,
+    "run": 2,
+    "time": 0.027279000030830503
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Uniform",
+    "size": 7500,
+    "run": 3,
+    "time": 0.027313124970532954
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Uniform",
+    "size": 7500,
+    "run": 4,
+    "time": 0.02757295803166926
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Uniform",
+    "size": 7500,
+    "run": 5,
+    "time": 0.028063999954611063
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Uniform",
+    "size": 7500,
+    "run": 6,
+    "time": 0.027421125094406307
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Uniform",
+    "size": 7500,
+    "run": 0,
+    "time": 0.012171084061264992
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Uniform",
+    "size": 7500,
+    "run": 1,
+    "time": 0.011775708990171552
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Uniform",
+    "size": 7500,
+    "run": 2,
+    "time": 0.011660999967716634
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Uniform",
+    "size": 7500,
+    "run": 3,
+    "time": 0.012355207931250334
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Uniform",
+    "size": 7500,
+    "run": 4,
+    "time": 0.011612290982156992
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Uniform",
+    "size": 7500,
+    "run": 5,
+    "time": 0.01174170896410942
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Uniform",
+    "size": 7500,
+    "run": 6,
+    "time": 0.011759583023376763
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Uniform",
+    "size": 10000,
+    "run": 0,
+    "time": 1.7945533329620957
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Uniform",
+    "size": 10000,
+    "run": 1,
+    "time": 1.8231570000061765
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Uniform",
+    "size": 10000,
+    "run": 2,
+    "time": 1.8193802500609308
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Uniform",
+    "size": 10000,
+    "run": 3,
+    "time": 1.7525564579991624
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Uniform",
+    "size": 10000,
+    "run": 4,
+    "time": 1.7386215410660952
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Uniform",
+    "size": 10000,
+    "run": 5,
+    "time": 1.7458185000577942
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Uniform",
+    "size": 10000,
+    "run": 6,
+    "time": 1.794160292018205
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Uniform",
+    "size": 10000,
+    "run": 0,
+    "time": 0.015163542004302144
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Uniform",
+    "size": 10000,
+    "run": 1,
+    "time": 0.015407124999910593
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Uniform",
+    "size": 10000,
+    "run": 2,
+    "time": 0.014958749990910292
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Uniform",
+    "size": 10000,
+    "run": 3,
+    "time": 0.014917915919795632
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Uniform",
+    "size": 10000,
+    "run": 4,
+    "time": 0.015140166971832514
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Uniform",
+    "size": 10000,
+    "run": 5,
+    "time": 0.015107084065675735
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Uniform",
+    "size": 10000,
+    "run": 6,
+    "time": 0.014922000002115965
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Uniform",
+    "size": 10000,
+    "run": 0,
+    "time": 0.019497792003676295
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Uniform",
+    "size": 10000,
+    "run": 1,
+    "time": 0.01894249999895692
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Uniform",
+    "size": 10000,
+    "run": 2,
+    "time": 0.019111874978989363
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Uniform",
+    "size": 10000,
+    "run": 3,
+    "time": 0.01904450007714331
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Uniform",
+    "size": 10000,
+    "run": 4,
+    "time": 0.019179916940629482
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Uniform",
+    "size": 10000,
+    "run": 5,
+    "time": 0.018196041928604245
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Uniform",
+    "size": 10000,
+    "run": 6,
+    "time": 0.020454916986636817
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Uniform",
+    "size": 10000,
+    "run": 0,
+    "time": 0.018722750013694167
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Uniform",
+    "size": 10000,
+    "run": 1,
+    "time": 0.018031541956588626
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Uniform",
+    "size": 10000,
+    "run": 2,
+    "time": 0.016854999936185777
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Uniform",
+    "size": 10000,
+    "run": 3,
+    "time": 0.017924749990925193
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Uniform",
+    "size": 10000,
+    "run": 4,
+    "time": 0.0181953749852255
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Uniform",
+    "size": 10000,
+    "run": 5,
+    "time": 0.01790341699961573
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Uniform",
+    "size": 10000,
+    "run": 6,
+    "time": 0.018380875000730157
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Uniform",
+    "size": 10000,
+    "run": 0,
+    "time": 0.017933416995219886
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Uniform",
+    "size": 10000,
+    "run": 1,
+    "time": 0.018486125045455992
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Uniform",
+    "size": 10000,
+    "run": 2,
+    "time": 0.01726833393331617
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Uniform",
+    "size": 10000,
+    "run": 3,
+    "time": 0.01704204105772078
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Uniform",
+    "size": 10000,
+    "run": 4,
+    "time": 0.017485082964412868
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Uniform",
+    "size": 10000,
+    "run": 5,
+    "time": 0.01760691695380956
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Uniform",
+    "size": 10000,
+    "run": 6,
+    "time": 0.017092957976274192
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Uniform",
+    "size": 10000,
+    "run": 0,
+    "time": 0.03953233303036541
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Uniform",
+    "size": 10000,
+    "run": 1,
+    "time": 0.0388343749800697
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Uniform",
+    "size": 10000,
+    "run": 2,
+    "time": 0.03875008306931704
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Uniform",
+    "size": 10000,
+    "run": 3,
+    "time": 0.03867849998641759
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Uniform",
+    "size": 10000,
+    "run": 4,
+    "time": 0.03896345791872591
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Uniform",
+    "size": 10000,
+    "run": 5,
+    "time": 0.03950029192492366
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Uniform",
+    "size": 10000,
+    "run": 6,
+    "time": 0.04044762498233467
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Uniform",
+    "size": 10000,
+    "run": 0,
+    "time": 0.01771774992812425
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Uniform",
+    "size": 10000,
+    "run": 1,
+    "time": 0.01755529106594622
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Uniform",
+    "size": 10000,
+    "run": 2,
+    "time": 0.01797333301510662
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Uniform",
+    "size": 10000,
+    "run": 3,
+    "time": 0.017029166920110583
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Uniform",
+    "size": 10000,
+    "run": 4,
+    "time": 0.01775250001810491
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Uniform",
+    "size": 10000,
+    "run": 5,
+    "time": 0.017266667098738253
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Uniform",
+    "size": 10000,
+    "run": 6,
+    "time": 0.017821499961428344
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Uniform",
+    "size": 20000,
+    "run": 0,
+    "time": 7.186572042061016
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Uniform",
+    "size": 20000,
+    "run": 1,
+    "time": 7.193007417023182
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Uniform",
+    "size": 20000,
+    "run": 2,
+    "time": 7.215768749942072
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Uniform",
+    "size": 20000,
+    "run": 3,
+    "time": 7.119239708059467
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Uniform",
+    "size": 20000,
+    "run": 4,
+    "time": 7.138556707999669
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Uniform",
+    "size": 20000,
+    "run": 5,
+    "time": 7.193154082982801
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Uniform",
+    "size": 20000,
+    "run": 6,
+    "time": 7.030777832958847
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Uniform",
+    "size": 20000,
+    "run": 0,
+    "time": 0.03396966599393636
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Uniform",
+    "size": 20000,
+    "run": 1,
+    "time": 0.03346941701602191
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Uniform",
+    "size": 20000,
+    "run": 2,
+    "time": 0.03307345905341208
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Uniform",
+    "size": 20000,
+    "run": 3,
+    "time": 0.033205792075023055
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Uniform",
+    "size": 20000,
+    "run": 4,
+    "time": 0.032798291998915374
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Uniform",
+    "size": 20000,
+    "run": 5,
+    "time": 0.03325683297589421
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Uniform",
+    "size": 20000,
+    "run": 6,
+    "time": 0.032923375023528934
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Uniform",
+    "size": 20000,
+    "run": 0,
+    "time": 0.04530512494966388
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Uniform",
+    "size": 20000,
+    "run": 1,
+    "time": 0.045596041018143296
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Uniform",
+    "size": 20000,
+    "run": 2,
+    "time": 0.04266779194585979
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Uniform",
+    "size": 20000,
+    "run": 3,
+    "time": 0.04465249995701015
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Uniform",
+    "size": 20000,
+    "run": 4,
+    "time": 0.0453534999396652
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Uniform",
+    "size": 20000,
+    "run": 5,
+    "time": 0.043982625007629395
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Uniform",
+    "size": 20000,
+    "run": 6,
+    "time": 0.045476790983229876
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Uniform",
+    "size": 20000,
+    "run": 0,
+    "time": 0.04356095800176263
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Uniform",
+    "size": 20000,
+    "run": 1,
+    "time": 0.042732917005196214
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Uniform",
+    "size": 20000,
+    "run": 2,
+    "time": 0.041596292052417994
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Uniform",
+    "size": 20000,
+    "run": 3,
+    "time": 0.04447762493509799
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Uniform",
+    "size": 20000,
+    "run": 4,
+    "time": 0.04263012495357543
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Uniform",
+    "size": 20000,
+    "run": 5,
+    "time": 0.04165608307812363
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Uniform",
+    "size": 20000,
+    "run": 6,
+    "time": 0.042167166946455836
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Uniform",
+    "size": 20000,
+    "run": 0,
+    "time": 0.042057666927576065
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Uniform",
+    "size": 20000,
+    "run": 1,
+    "time": 0.048134249984286726
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Uniform",
+    "size": 20000,
+    "run": 2,
+    "time": 0.046191083965823054
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Uniform",
+    "size": 20000,
+    "run": 3,
+    "time": 0.0431269999826327
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Uniform",
+    "size": 20000,
+    "run": 4,
+    "time": 0.04316070897039026
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Uniform",
+    "size": 20000,
+    "run": 5,
+    "time": 0.04141404095571488
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Uniform",
+    "size": 20000,
+    "run": 6,
+    "time": 0.041026709019206464
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Uniform",
+    "size": 20000,
+    "run": 0,
+    "time": 0.09401604195591062
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Uniform",
+    "size": 20000,
+    "run": 1,
+    "time": 0.09464195801410824
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Uniform",
+    "size": 20000,
+    "run": 2,
+    "time": 0.09534533391706645
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Uniform",
+    "size": 20000,
+    "run": 3,
+    "time": 0.09259758295956999
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Uniform",
+    "size": 20000,
+    "run": 4,
+    "time": 0.09242450003512204
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Uniform",
+    "size": 20000,
+    "run": 5,
+    "time": 0.09410029102582484
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Uniform",
+    "size": 20000,
+    "run": 6,
+    "time": 0.09487475000787526
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Uniform",
+    "size": 20000,
+    "run": 0,
+    "time": 0.07422304200008512
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Uniform",
+    "size": 20000,
+    "run": 1,
+    "time": 0.040173124987632036
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Uniform",
+    "size": 20000,
+    "run": 2,
+    "time": 0.04173633398022503
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Uniform",
+    "size": 20000,
+    "run": 3,
+    "time": 0.041074875043705106
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Uniform",
+    "size": 20000,
+    "run": 4,
+    "time": 0.04189783299807459
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Uniform",
+    "size": 20000,
+    "run": 5,
+    "time": 0.04205916600767523
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Uniform",
+    "size": 20000,
+    "run": 6,
+    "time": 0.039588292012922466
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Almost",
+    "size": 10,
+    "run": 0,
+    "time": 3.00002284348011e-06
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Almost",
+    "size": 10,
+    "run": 1,
+    "time": 1.6670674085617065e-06
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Almost",
+    "size": 10,
+    "run": 2,
+    "time": 2.040993422269821e-06
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Almost",
+    "size": 10,
+    "run": 3,
+    "time": 1.625041477382183e-06
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Almost",
+    "size": 10,
+    "run": 4,
+    "time": 1.959037035703659e-06
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Almost",
+    "size": 10,
+    "run": 5,
+    "time": 1.625041477382183e-06
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Almost",
+    "size": 10,
+    "run": 6,
+    "time": 1.3329554349184036e-06
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Almost",
+    "size": 10,
+    "run": 0,
+    "time": 9.790994226932526e-06
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Almost",
+    "size": 10,
+    "run": 1,
+    "time": 8.750008419156075e-06
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Almost",
+    "size": 10,
+    "run": 2,
+    "time": 8.291914127767086e-06
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Almost",
+    "size": 10,
+    "run": 3,
+    "time": 5.624955520033836e-06
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Almost",
+    "size": 10,
+    "run": 4,
+    "time": 3.584078513085842e-06
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Almost",
+    "size": 10,
+    "run": 5,
+    "time": 4.041939973831177e-06
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Almost",
+    "size": 10,
+    "run": 6,
+    "time": 3.2919924706220627e-06
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Almost",
+    "size": 10,
+    "run": 0,
+    "time": 3.2080570235848427e-06
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Almost",
+    "size": 10,
+    "run": 1,
+    "time": 2.750079147517681e-06
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Almost",
+    "size": 10,
+    "run": 2,
+    "time": 2.374988980591297e-06
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Almost",
+    "size": 10,
+    "run": 3,
+    "time": 2.2080494090914726e-06
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Almost",
+    "size": 10,
+    "run": 4,
+    "time": 2.5829067453742027e-06
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Almost",
+    "size": 10,
+    "run": 5,
+    "time": 2.166023477911949e-06
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Almost",
+    "size": 10,
+    "run": 6,
+    "time": 1.9170111045241356e-06
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Almost",
+    "size": 10,
+    "run": 0,
+    "time": 4.208995960652828e-06
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Almost",
+    "size": 10,
+    "run": 1,
+    "time": 2.459040842950344e-06
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Almost",
+    "size": 10,
+    "run": 2,
+    "time": 2.249958924949169e-06
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Almost",
+    "size": 10,
+    "run": 3,
+    "time": 2.250075340270996e-06
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Almost",
+    "size": 10,
+    "run": 4,
+    "time": 2.374988980591297e-06
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Almost",
+    "size": 10,
+    "run": 5,
+    "time": 2.584070898592472e-06
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Almost",
+    "size": 10,
+    "run": 6,
+    "time": 2.0830193534493446e-06
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Almost",
+    "size": 10,
+    "run": 0,
+    "time": 4.833098500967026e-06
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Almost",
+    "size": 10,
+    "run": 1,
+    "time": 2.874992787837982e-06
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Almost",
+    "size": 10,
+    "run": 2,
+    "time": 2.7919886633753777e-06
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Almost",
+    "size": 10,
+    "run": 3,
+    "time": 2.7080532163381577e-06
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Almost",
+    "size": 10,
+    "run": 4,
+    "time": 3.7499703466892242e-06
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Almost",
+    "size": 10,
+    "run": 5,
+    "time": 3.00002284348011e-06
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Almost",
+    "size": 10,
+    "run": 6,
+    "time": 5.541951395571232e-06
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Almost",
+    "size": 10,
+    "run": 0,
+    "time": 8.833012543618679e-06
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Almost",
+    "size": 10,
+    "run": 1,
+    "time": 4.915986210107803e-06
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Almost",
+    "size": 10,
+    "run": 2,
+    "time": 4.875008016824722e-06
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Almost",
+    "size": 10,
+    "run": 3,
+    "time": 4.249974153935909e-06
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Almost",
+    "size": 10,
+    "run": 4,
+    "time": 4.500034265220165e-06
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Almost",
+    "size": 10,
+    "run": 5,
+    "time": 4.166970029473305e-06
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Almost",
+    "size": 10,
+    "run": 6,
+    "time": 4.292000085115433e-06
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Almost",
+    "size": 10,
+    "run": 0,
+    "time": 3.6660348996520042e-06
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Almost",
+    "size": 10,
+    "run": 1,
+    "time": 2.416083589196205e-06
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Almost",
+    "size": 10,
+    "run": 2,
+    "time": 4.292000085115433e-06
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Almost",
+    "size": 10,
+    "run": 3,
+    "time": 2.124928869307041e-06
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Almost",
+    "size": 10,
+    "run": 4,
+    "time": 2.3329630494117737e-06
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Almost",
+    "size": 10,
+    "run": 5,
+    "time": 1.750071533024311e-06
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Almost",
+    "size": 10,
+    "run": 6,
+    "time": 1.9579892978072166e-06
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Almost",
+    "size": 100,
+    "run": 0,
+    "time": 2.6124995201826096e-05
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Almost",
+    "size": 100,
+    "run": 1,
+    "time": 2.2417050786316395e-05
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Almost",
+    "size": 100,
+    "run": 2,
+    "time": 3.154110163450241e-05
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Almost",
+    "size": 100,
+    "run": 3,
+    "time": 3.1374976970255375e-05
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Almost",
+    "size": 100,
+    "run": 4,
+    "time": 3.524997737258673e-05
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Almost",
+    "size": 100,
+    "run": 5,
+    "time": 2.150004729628563e-05
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Almost",
+    "size": 100,
+    "run": 6,
+    "time": 3.783300053328276e-05
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Almost",
+    "size": 100,
+    "run": 0,
+    "time": 5.441706161946058e-05
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Almost",
+    "size": 100,
+    "run": 1,
+    "time": 4.679197445511818e-05
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Almost",
+    "size": 100,
+    "run": 2,
+    "time": 4.829105455428362e-05
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Almost",
+    "size": 100,
+    "run": 3,
+    "time": 4.754203837364912e-05
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Almost",
+    "size": 100,
+    "run": 4,
+    "time": 4.754099063575268e-05
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Almost",
+    "size": 100,
+    "run": 5,
+    "time": 4.641595296561718e-05
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Almost",
+    "size": 100,
+    "run": 6,
+    "time": 4.950002767145634e-05
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Almost",
+    "size": 100,
+    "run": 0,
+    "time": 4.141696263104677e-05
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Almost",
+    "size": 100,
+    "run": 1,
+    "time": 3.7209014408290386e-05
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Almost",
+    "size": 100,
+    "run": 2,
+    "time": 3.98330157622695e-05
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Almost",
+    "size": 100,
+    "run": 3,
+    "time": 4.39999857917428e-05
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Almost",
+    "size": 100,
+    "run": 4,
+    "time": 4.3459003791213036e-05
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Almost",
+    "size": 100,
+    "run": 5,
+    "time": 3.7624966353178024e-05
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Almost",
+    "size": 100,
+    "run": 6,
+    "time": 3.9041973650455475e-05
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Almost",
+    "size": 100,
+    "run": 0,
+    "time": 3.7207966670393944e-05
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Almost",
+    "size": 100,
+    "run": 1,
+    "time": 3.6082929000258446e-05
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Almost",
+    "size": 100,
+    "run": 2,
+    "time": 3.933301195502281e-05
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Almost",
+    "size": 100,
+    "run": 3,
+    "time": 3.770901821553707e-05
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Almost",
+    "size": 100,
+    "run": 4,
+    "time": 3.933301195502281e-05
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Almost",
+    "size": 100,
+    "run": 5,
+    "time": 4.0584011003375053e-05
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Almost",
+    "size": 100,
+    "run": 6,
+    "time": 3.99579294025898e-05
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Almost",
+    "size": 100,
+    "run": 0,
+    "time": 4.083302337676287e-05
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Almost",
+    "size": 100,
+    "run": 1,
+    "time": 3.804103471338749e-05
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Almost",
+    "size": 100,
+    "run": 2,
+    "time": 4.1207997128367424e-05
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Almost",
+    "size": 100,
+    "run": 3,
+    "time": 4.175002686679363e-05
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Almost",
+    "size": 100,
+    "run": 4,
+    "time": 4.4042011722922325e-05
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Almost",
+    "size": 100,
+    "run": 5,
+    "time": 3.925000783056021e-05
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Almost",
+    "size": 100,
+    "run": 6,
+    "time": 4.2499974370002747e-05
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Almost",
+    "size": 100,
+    "run": 0,
+    "time": 8.954107761383057e-05
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Almost",
+    "size": 100,
+    "run": 1,
+    "time": 8.633302059024572e-05
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Almost",
+    "size": 100,
+    "run": 2,
+    "time": 8.558307308703661e-05
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Almost",
+    "size": 100,
+    "run": 3,
+    "time": 8.520891424268484e-05
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Almost",
+    "size": 100,
+    "run": 4,
+    "time": 8.599995635449886e-05
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Almost",
+    "size": 100,
+    "run": 5,
+    "time": 8.425000123679638e-05
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Almost",
+    "size": 100,
+    "run": 6,
+    "time": 8.362496737390757e-05
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Almost",
+    "size": 100,
+    "run": 0,
+    "time": 2.9791961424052715e-05
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Almost",
+    "size": 100,
+    "run": 1,
+    "time": 3.0249939300119877e-05
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Almost",
+    "size": 100,
+    "run": 2,
+    "time": 3.5792007111012936e-05
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Almost",
+    "size": 100,
+    "run": 3,
+    "time": 3.4542055800557137e-05
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Almost",
+    "size": 100,
+    "run": 4,
+    "time": 3.429199568927288e-05
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Almost",
+    "size": 100,
+    "run": 5,
+    "time": 3.3958000130951405e-05
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Almost",
+    "size": 100,
+    "run": 6,
+    "time": 3.3624935895204544e-05
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Almost",
+    "size": 500,
+    "run": 0,
+    "time": 0.0002930829068645835
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Almost",
+    "size": 500,
+    "run": 1,
+    "time": 0.0001568750012665987
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Almost",
+    "size": 500,
+    "run": 2,
+    "time": 0.00016829196829348803
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Almost",
+    "size": 500,
+    "run": 3,
+    "time": 0.0002620000159367919
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Almost",
+    "size": 500,
+    "run": 4,
+    "time": 0.00027545797638595104
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Almost",
+    "size": 500,
+    "run": 5,
+    "time": 0.00020995899103581905
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Almost",
+    "size": 500,
+    "run": 6,
+    "time": 0.00024524994660168886
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Almost",
+    "size": 500,
+    "run": 0,
+    "time": 0.0003661250229924917
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Almost",
+    "size": 500,
+    "run": 1,
+    "time": 0.0003248749999329448
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Almost",
+    "size": 500,
+    "run": 2,
+    "time": 0.00032779097091406584
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Almost",
+    "size": 500,
+    "run": 3,
+    "time": 0.00028262496925890446
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Almost",
+    "size": 500,
+    "run": 4,
+    "time": 0.0003018750576302409
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Almost",
+    "size": 500,
+    "run": 5,
+    "time": 0.00034320796839892864
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Almost",
+    "size": 500,
+    "run": 6,
+    "time": 0.00036262511275708675
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Almost",
+    "size": 500,
+    "run": 0,
+    "time": 0.0002994999522343278
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Almost",
+    "size": 500,
+    "run": 1,
+    "time": 0.0002555000828579068
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Almost",
+    "size": 500,
+    "run": 2,
+    "time": 0.0002691670088097453
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Almost",
+    "size": 500,
+    "run": 3,
+    "time": 0.00028804095927625895
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Almost",
+    "size": 500,
+    "run": 4,
+    "time": 0.00029987492598593235
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Almost",
+    "size": 500,
+    "run": 5,
+    "time": 0.000264541944488883
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Almost",
+    "size": 500,
+    "run": 6,
+    "time": 0.00029574998188763857
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Almost",
+    "size": 500,
+    "run": 0,
+    "time": 0.0003086670767515898
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Almost",
+    "size": 500,
+    "run": 1,
+    "time": 0.00025400007143616676
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Almost",
+    "size": 500,
+    "run": 2,
+    "time": 0.000277375103905797
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Almost",
+    "size": 500,
+    "run": 3,
+    "time": 0.00028079201001673937
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Almost",
+    "size": 500,
+    "run": 4,
+    "time": 0.00030691700521856546
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Almost",
+    "size": 500,
+    "run": 5,
+    "time": 0.0002488330937922001
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Almost",
+    "size": 500,
+    "run": 6,
+    "time": 0.00027799990493804216
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Almost",
+    "size": 500,
+    "run": 0,
+    "time": 0.00029958400409668684
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Almost",
+    "size": 500,
+    "run": 1,
+    "time": 0.0002756250323727727
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Almost",
+    "size": 500,
+    "run": 2,
+    "time": 0.0002947920002043247
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Almost",
+    "size": 500,
+    "run": 3,
+    "time": 0.00031908403616398573
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Almost",
+    "size": 500,
+    "run": 4,
+    "time": 0.00031104101799428463
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Almost",
+    "size": 500,
+    "run": 5,
+    "time": 0.00029279105365276337
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Almost",
+    "size": 500,
+    "run": 6,
+    "time": 0.0002893749624490738
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Almost",
+    "size": 500,
+    "run": 0,
+    "time": 0.0008414159528911114
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Almost",
+    "size": 500,
+    "run": 1,
+    "time": 0.0007650830084457994
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Almost",
+    "size": 500,
+    "run": 2,
+    "time": 0.0007593330228701234
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Almost",
+    "size": 500,
+    "run": 3,
+    "time": 0.0007727909833192825
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Almost",
+    "size": 500,
+    "run": 4,
+    "time": 0.0007783750770613551
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Almost",
+    "size": 500,
+    "run": 5,
+    "time": 0.0007861669873818755
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Almost",
+    "size": 500,
+    "run": 6,
+    "time": 0.000773416948504746
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Almost",
+    "size": 500,
+    "run": 0,
+    "time": 0.0002902920823544264
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Almost",
+    "size": 500,
+    "run": 1,
+    "time": 0.0003484579501673579
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Almost",
+    "size": 500,
+    "run": 2,
+    "time": 0.00023187499027699232
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Almost",
+    "size": 500,
+    "run": 3,
+    "time": 0.00025033403653651476
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Almost",
+    "size": 500,
+    "run": 4,
+    "time": 0.00025812501553446054
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Almost",
+    "size": 500,
+    "run": 5,
+    "time": 0.00022866600193083286
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Almost",
+    "size": 500,
+    "run": 6,
+    "time": 0.0002315420424565673
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Almost",
+    "size": 1000,
+    "run": 0,
+    "time": 0.0004515000618994236
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Almost",
+    "size": 1000,
+    "run": 1,
+    "time": 0.00036341696977615356
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Almost",
+    "size": 1000,
+    "run": 2,
+    "time": 0.00048454198986291885
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Almost",
+    "size": 1000,
+    "run": 3,
+    "time": 0.0004396250005811453
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Almost",
+    "size": 1000,
+    "run": 4,
+    "time": 0.0005825409898534417
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Almost",
+    "size": 1000,
+    "run": 5,
+    "time": 0.0005158339627087116
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Almost",
+    "size": 1000,
+    "run": 6,
+    "time": 0.0004367909859865904
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Almost",
+    "size": 1000,
+    "run": 0,
+    "time": 0.0006869579665362835
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Almost",
+    "size": 1000,
+    "run": 1,
+    "time": 0.0006522090407088399
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Almost",
+    "size": 1000,
+    "run": 2,
+    "time": 0.0008821249939501286
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Almost",
+    "size": 1000,
+    "run": 3,
+    "time": 0.00064354098867625
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Almost",
+    "size": 1000,
+    "run": 4,
+    "time": 0.0005774169694632292
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Almost",
+    "size": 1000,
+    "run": 5,
+    "time": 0.0005539159756153822
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Almost",
+    "size": 1000,
+    "run": 6,
+    "time": 0.0006558749591931701
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Almost",
+    "size": 1000,
+    "run": 0,
+    "time": 0.0006354160141199827
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Almost",
+    "size": 1000,
+    "run": 1,
+    "time": 0.0006143749924376607
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Almost",
+    "size": 1000,
+    "run": 2,
+    "time": 0.0006676249904558063
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Almost",
+    "size": 1000,
+    "run": 3,
+    "time": 0.0006314170313999057
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Almost",
+    "size": 1000,
+    "run": 4,
+    "time": 0.0006576670566573739
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Almost",
+    "size": 1000,
+    "run": 5,
+    "time": 0.0006832079961895943
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Almost",
+    "size": 1000,
+    "run": 6,
+    "time": 0.0006603749934583902
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Almost",
+    "size": 1000,
+    "run": 0,
+    "time": 0.0007182919653132558
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Almost",
+    "size": 1000,
+    "run": 1,
+    "time": 0.0006595830200240016
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Almost",
+    "size": 1000,
+    "run": 2,
+    "time": 0.0006848749471828341
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Almost",
+    "size": 1000,
+    "run": 3,
+    "time": 0.0006526249926537275
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Almost",
+    "size": 1000,
+    "run": 4,
+    "time": 0.0006941249594092369
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Almost",
+    "size": 1000,
+    "run": 5,
+    "time": 0.0006816249806433916
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Almost",
+    "size": 1000,
+    "run": 6,
+    "time": 0.0006491669919341803
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Almost",
+    "size": 1000,
+    "run": 0,
+    "time": 0.0007310840301215649
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Almost",
+    "size": 1000,
+    "run": 1,
+    "time": 0.000801792019046843
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Almost",
+    "size": 1000,
+    "run": 2,
+    "time": 0.000751374987885356
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Almost",
+    "size": 1000,
+    "run": 3,
+    "time": 0.0006133330753073096
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Almost",
+    "size": 1000,
+    "run": 4,
+    "time": 0.0006881250301375985
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Almost",
+    "size": 1000,
+    "run": 5,
+    "time": 0.0006650830619037151
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Almost",
+    "size": 1000,
+    "run": 6,
+    "time": 0.0006498330039903522
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Almost",
+    "size": 1000,
+    "run": 0,
+    "time": 0.002063166000880301
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Almost",
+    "size": 1000,
+    "run": 1,
+    "time": 0.0021640839986503124
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Almost",
+    "size": 1000,
+    "run": 2,
+    "time": 0.0019167499849572778
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Almost",
+    "size": 1000,
+    "run": 3,
+    "time": 0.0018947090720757842
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Almost",
+    "size": 1000,
+    "run": 4,
+    "time": 0.001970833051018417
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Almost",
+    "size": 1000,
+    "run": 5,
+    "time": 0.00199741602409631
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Almost",
+    "size": 1000,
+    "run": 6,
+    "time": 0.0019299999112263322
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Almost",
+    "size": 1000,
+    "run": 0,
+    "time": 0.0005167080089449883
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Almost",
+    "size": 1000,
+    "run": 1,
+    "time": 0.0004812089027836919
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Almost",
+    "size": 1000,
+    "run": 2,
+    "time": 0.0005155829712748528
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Almost",
+    "size": 1000,
+    "run": 3,
+    "time": 0.000513582956045866
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Almost",
+    "size": 1000,
+    "run": 4,
+    "time": 0.000554917030967772
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Almost",
+    "size": 1000,
+    "run": 5,
+    "time": 0.0005266249645501375
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Almost",
+    "size": 1000,
+    "run": 6,
+    "time": 0.0005212080432102084
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Almost",
+    "size": 2500,
+    "run": 0,
+    "time": 0.002130041946657002
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Almost",
+    "size": 2500,
+    "run": 1,
+    "time": 0.001286334008909762
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Almost",
+    "size": 2500,
+    "run": 2,
+    "time": 0.0016176250064745545
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Almost",
+    "size": 2500,
+    "run": 3,
+    "time": 0.0016515000024810433
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Almost",
+    "size": 2500,
+    "run": 4,
+    "time": 0.022369374986737967
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Almost",
+    "size": 2500,
+    "run": 5,
+    "time": 0.0012862919829785824
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Almost",
+    "size": 2500,
+    "run": 6,
+    "time": 0.0010943749221041799
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Almost",
+    "size": 2500,
+    "run": 0,
+    "time": 0.0052643329836428165
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Almost",
+    "size": 2500,
+    "run": 1,
+    "time": 0.0013691670028492808
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Almost",
+    "size": 2500,
+    "run": 2,
+    "time": 0.0012952089309692383
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Almost",
+    "size": 2500,
+    "run": 3,
+    "time": 0.0012997500598430634
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Almost",
+    "size": 2500,
+    "run": 4,
+    "time": 0.001294290996156633
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Almost",
+    "size": 2500,
+    "run": 5,
+    "time": 0.0009388750186190009
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Almost",
+    "size": 2500,
+    "run": 6,
+    "time": 0.0012101669562980533
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Almost",
+    "size": 2500,
+    "run": 0,
+    "time": 0.0020418750355020165
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Almost",
+    "size": 2500,
+    "run": 1,
+    "time": 0.002027084003202617
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Almost",
+    "size": 2500,
+    "run": 2,
+    "time": 0.002109832945279777
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Almost",
+    "size": 2500,
+    "run": 3,
+    "time": 0.0020559170516207814
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Almost",
+    "size": 2500,
+    "run": 4,
+    "time": 0.002006417023949325
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Almost",
+    "size": 2500,
+    "run": 5,
+    "time": 0.0018628749530762434
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Almost",
+    "size": 2500,
+    "run": 6,
+    "time": 0.002012791926972568
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Almost",
+    "size": 2500,
+    "run": 0,
+    "time": 0.002072791918180883
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Almost",
+    "size": 2500,
+    "run": 1,
+    "time": 0.00193070899695158
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Almost",
+    "size": 2500,
+    "run": 2,
+    "time": 0.0019507079850882292
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Almost",
+    "size": 2500,
+    "run": 3,
+    "time": 0.0021167079685255885
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Almost",
+    "size": 2500,
+    "run": 4,
+    "time": 0.0020097909728065133
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Almost",
+    "size": 2500,
+    "run": 5,
+    "time": 0.0018868749029934406
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Almost",
+    "size": 2500,
+    "run": 6,
+    "time": 0.0018691669683903456
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Almost",
+    "size": 2500,
+    "run": 0,
+    "time": 0.0020069170277565718
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Almost",
+    "size": 2500,
+    "run": 1,
+    "time": 0.0018766659777611494
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Almost",
+    "size": 2500,
+    "run": 2,
+    "time": 0.001944791991263628
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Almost",
+    "size": 2500,
+    "run": 3,
+    "time": 0.0021507920464500785
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Almost",
+    "size": 2500,
+    "run": 4,
+    "time": 0.0021027500042691827
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Almost",
+    "size": 2500,
+    "run": 5,
+    "time": 0.002073833020403981
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Almost",
+    "size": 2500,
+    "run": 6,
+    "time": 0.0018436659593135118
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Almost",
+    "size": 2500,
+    "run": 0,
+    "time": 0.00642704195342958
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Almost",
+    "size": 2500,
+    "run": 1,
+    "time": 0.006439000018872321
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Almost",
+    "size": 2500,
+    "run": 2,
+    "time": 0.006267916993238032
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Almost",
+    "size": 2500,
+    "run": 3,
+    "time": 0.006394499912858009
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Almost",
+    "size": 2500,
+    "run": 4,
+    "time": 0.006668083020485938
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Almost",
+    "size": 2500,
+    "run": 5,
+    "time": 0.006441166973672807
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Almost",
+    "size": 2500,
+    "run": 6,
+    "time": 0.0064410410122945905
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Almost",
+    "size": 2500,
+    "run": 0,
+    "time": 0.001777249970473349
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Almost",
+    "size": 2500,
+    "run": 1,
+    "time": 0.0014771249843761325
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Almost",
+    "size": 2500,
+    "run": 2,
+    "time": 0.0015516249695792794
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Almost",
+    "size": 2500,
+    "run": 3,
+    "time": 0.0015160419279709458
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Almost",
+    "size": 2500,
+    "run": 4,
+    "time": 0.0018632919527590275
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Almost",
+    "size": 2500,
+    "run": 5,
+    "time": 0.0014442920219153166
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Almost",
+    "size": 2500,
+    "run": 6,
+    "time": 0.0013513750163838267
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Almost",
+    "size": 5000,
+    "run": 0,
+    "time": 0.0034113749861717224
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Almost",
+    "size": 5000,
+    "run": 1,
+    "time": 0.00331220799125731
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Almost",
+    "size": 5000,
+    "run": 2,
+    "time": 0.002683624974451959
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Almost",
+    "size": 5000,
+    "run": 3,
+    "time": 0.0030866250162944198
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Almost",
+    "size": 5000,
+    "run": 4,
+    "time": 0.0022964170202612877
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Almost",
+    "size": 5000,
+    "run": 5,
+    "time": 0.0036444170400500298
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Almost",
+    "size": 5000,
+    "run": 6,
+    "time": 0.003978124936111271
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Almost",
+    "size": 5000,
+    "run": 0,
+    "time": 0.002655250020325184
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Almost",
+    "size": 5000,
+    "run": 1,
+    "time": 0.0028304170118644834
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Almost",
+    "size": 5000,
+    "run": 2,
+    "time": 0.0028514169389382005
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Almost",
+    "size": 5000,
+    "run": 3,
+    "time": 0.002348375041037798
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Almost",
+    "size": 5000,
+    "run": 4,
+    "time": 0.0025224159471690655
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Almost",
+    "size": 5000,
+    "run": 5,
+    "time": 0.0021780410315841436
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Almost",
+    "size": 5000,
+    "run": 6,
+    "time": 0.0024820840917527676
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Almost",
+    "size": 5000,
+    "run": 0,
+    "time": 0.004485500045120716
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Almost",
+    "size": 5000,
+    "run": 1,
+    "time": 0.004544583032839
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Almost",
+    "size": 5000,
+    "run": 2,
+    "time": 0.004268833086825907
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Almost",
+    "size": 5000,
+    "run": 3,
+    "time": 0.00450370809994638
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Almost",
+    "size": 5000,
+    "run": 4,
+    "time": 0.004328125040046871
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Almost",
+    "size": 5000,
+    "run": 5,
+    "time": 0.004530875012278557
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Almost",
+    "size": 5000,
+    "run": 6,
+    "time": 0.004709750064648688
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Almost",
+    "size": 5000,
+    "run": 0,
+    "time": 0.004593083984218538
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Almost",
+    "size": 5000,
+    "run": 1,
+    "time": 0.004701708094216883
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Almost",
+    "size": 5000,
+    "run": 2,
+    "time": 0.00431816594209522
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Almost",
+    "size": 5000,
+    "run": 3,
+    "time": 0.004503665957599878
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Almost",
+    "size": 5000,
+    "run": 4,
+    "time": 0.004273416008800268
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Almost",
+    "size": 5000,
+    "run": 5,
+    "time": 0.004653541021980345
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Almost",
+    "size": 5000,
+    "run": 6,
+    "time": 0.004522915929555893
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Almost",
+    "size": 5000,
+    "run": 0,
+    "time": 0.004298459040001035
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Almost",
+    "size": 5000,
+    "run": 1,
+    "time": 0.004509499995037913
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Almost",
+    "size": 5000,
+    "run": 2,
+    "time": 0.004364500055089593
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Almost",
+    "size": 5000,
+    "run": 3,
+    "time": 0.0045997920678928494
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Almost",
+    "size": 5000,
+    "run": 4,
+    "time": 0.004187374957837164
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Almost",
+    "size": 5000,
+    "run": 5,
+    "time": 0.004648459027521312
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Almost",
+    "size": 5000,
+    "run": 6,
+    "time": 0.004823500057682395
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Almost",
+    "size": 5000,
+    "run": 0,
+    "time": 0.01570262503810227
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Almost",
+    "size": 5000,
+    "run": 1,
+    "time": 0.01612295804079622
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Almost",
+    "size": 5000,
+    "run": 2,
+    "time": 0.0159946660278365
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Almost",
+    "size": 5000,
+    "run": 3,
+    "time": 0.015004500048235059
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Almost",
+    "size": 5000,
+    "run": 4,
+    "time": 0.014850041014142334
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Almost",
+    "size": 5000,
+    "run": 5,
+    "time": 0.015334792085923254
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Almost",
+    "size": 5000,
+    "run": 6,
+    "time": 0.01592537492979318
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Almost",
+    "size": 5000,
+    "run": 0,
+    "time": 0.003425917006097734
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Almost",
+    "size": 5000,
+    "run": 1,
+    "time": 0.0035648749908432364
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Almost",
+    "size": 5000,
+    "run": 2,
+    "time": 0.00808108295314014
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Almost",
+    "size": 5000,
+    "run": 3,
+    "time": 0.0035929159494116902
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Almost",
+    "size": 5000,
+    "run": 4,
+    "time": 0.004458875046111643
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Almost",
+    "size": 5000,
+    "run": 5,
+    "time": 0.0035987079609185457
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Almost",
+    "size": 5000,
+    "run": 6,
+    "time": 0.003699125023558736
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Almost",
+    "size": 7500,
+    "run": 0,
+    "time": 0.005045624915510416
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Almost",
+    "size": 7500,
+    "run": 1,
+    "time": 0.004032665980048478
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Almost",
+    "size": 7500,
+    "run": 2,
+    "time": 0.0035216249525547028
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Almost",
+    "size": 7500,
+    "run": 3,
+    "time": 0.0030147499637678266
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Almost",
+    "size": 7500,
+    "run": 4,
+    "time": 0.005781249958090484
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Almost",
+    "size": 7500,
+    "run": 5,
+    "time": 0.004381833015941083
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Almost",
+    "size": 7500,
+    "run": 6,
+    "time": 0.0049237089697271585
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Almost",
+    "size": 7500,
+    "run": 0,
+    "time": 0.004015499958768487
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Almost",
+    "size": 7500,
+    "run": 1,
+    "time": 0.0034147080732509494
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Almost",
+    "size": 7500,
+    "run": 2,
+    "time": 0.002951792092062533
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Almost",
+    "size": 7500,
+    "run": 3,
+    "time": 0.0031219590455293655
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Almost",
+    "size": 7500,
+    "run": 4,
+    "time": 0.003676332999020815
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Almost",
+    "size": 7500,
+    "run": 5,
+    "time": 0.0032014589523896575
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Almost",
+    "size": 7500,
+    "run": 6,
+    "time": 0.0032868330599740148
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Almost",
+    "size": 7500,
+    "run": 0,
+    "time": 0.007073207991197705
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Almost",
+    "size": 7500,
+    "run": 1,
+    "time": 0.006866415962576866
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Almost",
+    "size": 7500,
+    "run": 2,
+    "time": 0.006248875055462122
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Almost",
+    "size": 7500,
+    "run": 3,
+    "time": 0.006713791051879525
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Almost",
+    "size": 7500,
+    "run": 4,
+    "time": 0.007208417053334415
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Almost",
+    "size": 7500,
+    "run": 5,
+    "time": 0.006770333042368293
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Almost",
+    "size": 7500,
+    "run": 6,
+    "time": 0.006749209016561508
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Almost",
+    "size": 7500,
+    "run": 0,
+    "time": 0.006977624958381057
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Almost",
+    "size": 7500,
+    "run": 1,
+    "time": 0.006526708020828664
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Almost",
+    "size": 7500,
+    "run": 2,
+    "time": 0.006319165928289294
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Almost",
+    "size": 7500,
+    "run": 3,
+    "time": 0.0063743749633431435
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Almost",
+    "size": 7500,
+    "run": 4,
+    "time": 0.006674624979496002
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Almost",
+    "size": 7500,
+    "run": 5,
+    "time": 0.006382082938216627
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Almost",
+    "size": 7500,
+    "run": 6,
+    "time": 0.006569207995198667
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Almost",
+    "size": 7500,
+    "run": 0,
+    "time": 0.006930917035788298
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Almost",
+    "size": 7500,
+    "run": 1,
+    "time": 0.006530415965244174
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Almost",
+    "size": 7500,
+    "run": 2,
+    "time": 0.0064815409714356065
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Almost",
+    "size": 7500,
+    "run": 3,
+    "time": 0.006530708051286638
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Almost",
+    "size": 7500,
+    "run": 4,
+    "time": 0.0069501668913289905
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Almost",
+    "size": 7500,
+    "run": 5,
+    "time": 0.006508499966003001
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Almost",
+    "size": 7500,
+    "run": 6,
+    "time": 0.0066767079988494515
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Almost",
+    "size": 7500,
+    "run": 0,
+    "time": 0.024962416966445744
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Almost",
+    "size": 7500,
+    "run": 1,
+    "time": 0.024590959073975682
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Almost",
+    "size": 7500,
+    "run": 2,
+    "time": 0.024134250008501112
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Almost",
+    "size": 7500,
+    "run": 3,
+    "time": 0.024334416957572103
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Almost",
+    "size": 7500,
+    "run": 4,
+    "time": 0.024709042045287788
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Almost",
+    "size": 7500,
+    "run": 5,
+    "time": 0.02444108296185732
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Almost",
+    "size": 7500,
+    "run": 6,
+    "time": 0.024482375010848045
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Almost",
+    "size": 7500,
+    "run": 0,
+    "time": 0.00527079205494374
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Almost",
+    "size": 7500,
+    "run": 1,
+    "time": 0.0050746670458465815
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Almost",
+    "size": 7500,
+    "run": 2,
+    "time": 0.0044510409934446216
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Almost",
+    "size": 7500,
+    "run": 3,
+    "time": 0.0048892919439822435
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Almost",
+    "size": 7500,
+    "run": 4,
+    "time": 0.005312791909091175
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Almost",
+    "size": 7500,
+    "run": 5,
+    "time": 0.0050503750098869205
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Almost",
+    "size": 7500,
+    "run": 6,
+    "time": 0.00525408296380192
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Almost",
+    "size": 10000,
+    "run": 0,
+    "time": 0.008244749973528087
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Almost",
+    "size": 10000,
+    "run": 1,
+    "time": 0.006796250003390014
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Almost",
+    "size": 10000,
+    "run": 2,
+    "time": 0.006097584031522274
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Almost",
+    "size": 10000,
+    "run": 3,
+    "time": 0.005069375038146973
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Almost",
+    "size": 10000,
+    "run": 4,
+    "time": 0.006395875010639429
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Almost",
+    "size": 10000,
+    "run": 5,
+    "time": 0.007314958958886564
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Almost",
+    "size": 10000,
+    "run": 6,
+    "time": 0.007917957962490618
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Almost",
+    "size": 10000,
+    "run": 0,
+    "time": 0.0047673750668764114
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Almost",
+    "size": 10000,
+    "run": 1,
+    "time": 0.0047093749744817615
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Almost",
+    "size": 10000,
+    "run": 2,
+    "time": 0.0048151250230148435
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Almost",
+    "size": 10000,
+    "run": 3,
+    "time": 0.004294291022233665
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Almost",
+    "size": 10000,
+    "run": 4,
+    "time": 0.0040058329468593
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Almost",
+    "size": 10000,
+    "run": 5,
+    "time": 0.004238334018737078
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Almost",
+    "size": 10000,
+    "run": 6,
+    "time": 0.004816374974325299
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Almost",
+    "size": 10000,
+    "run": 0,
+    "time": 0.0093639160040766
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Almost",
+    "size": 10000,
+    "run": 1,
+    "time": 0.009758042055182159
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Almost",
+    "size": 10000,
+    "run": 2,
+    "time": 0.00956258294172585
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Almost",
+    "size": 10000,
+    "run": 3,
+    "time": 0.009322209050878882
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Almost",
+    "size": 10000,
+    "run": 4,
+    "time": 0.009370957966893911
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Almost",
+    "size": 10000,
+    "run": 5,
+    "time": 0.00944266701117158
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Almost",
+    "size": 10000,
+    "run": 6,
+    "time": 0.009879666962660849
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Almost",
+    "size": 10000,
+    "run": 0,
+    "time": 0.009571166941896081
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Almost",
+    "size": 10000,
+    "run": 1,
+    "time": 0.009585374966263771
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Almost",
+    "size": 10000,
+    "run": 2,
+    "time": 0.009187416988424957
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Almost",
+    "size": 10000,
+    "run": 3,
+    "time": 0.008957957965321839
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Almost",
+    "size": 10000,
+    "run": 4,
+    "time": 0.009015624993480742
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Almost",
+    "size": 10000,
+    "run": 5,
+    "time": 0.009312583017162979
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Almost",
+    "size": 10000,
+    "run": 6,
+    "time": 0.009673541993834078
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Almost",
+    "size": 10000,
+    "run": 0,
+    "time": 0.00936395803000778
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Almost",
+    "size": 10000,
+    "run": 1,
+    "time": 0.00935491593554616
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Almost",
+    "size": 10000,
+    "run": 2,
+    "time": 0.009228833019733429
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Almost",
+    "size": 10000,
+    "run": 3,
+    "time": 0.008987791021354496
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Almost",
+    "size": 10000,
+    "run": 4,
+    "time": 0.0090048749698326
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Almost",
+    "size": 10000,
+    "run": 5,
+    "time": 0.009278583922423422
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Almost",
+    "size": 10000,
+    "run": 6,
+    "time": 0.00960787502117455
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Almost",
+    "size": 10000,
+    "run": 0,
+    "time": 0.03527949994895607
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Almost",
+    "size": 10000,
+    "run": 1,
+    "time": 0.035057333996519446
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Almost",
+    "size": 10000,
+    "run": 2,
+    "time": 0.035538333002477884
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Almost",
+    "size": 10000,
+    "run": 3,
+    "time": 0.03496066597290337
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Almost",
+    "size": 10000,
+    "run": 4,
+    "time": 0.035320290946401656
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Almost",
+    "size": 10000,
+    "run": 5,
+    "time": 0.03545179101638496
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Almost",
+    "size": 10000,
+    "run": 6,
+    "time": 0.03569245897233486
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Almost",
+    "size": 10000,
+    "run": 0,
+    "time": 0.007188334013335407
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Almost",
+    "size": 10000,
+    "run": 1,
+    "time": 0.007352957967668772
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Almost",
+    "size": 10000,
+    "run": 2,
+    "time": 0.006873958045616746
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Almost",
+    "size": 10000,
+    "run": 3,
+    "time": 0.006767917075194418
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Almost",
+    "size": 10000,
+    "run": 4,
+    "time": 0.006957207922823727
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Almost",
+    "size": 10000,
+    "run": 5,
+    "time": 0.007321292068809271
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Almost",
+    "size": 10000,
+    "run": 6,
+    "time": 0.007427042000927031
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Almost",
+    "size": 20000,
+    "run": 0,
+    "time": 0.01886858290527016
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Almost",
+    "size": 20000,
+    "run": 1,
+    "time": 0.012957333005033433
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Almost",
+    "size": 20000,
+    "run": 2,
+    "time": 0.01335129200015217
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Almost",
+    "size": 20000,
+    "run": 3,
+    "time": 0.009846542030572891
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Almost",
+    "size": 20000,
+    "run": 4,
+    "time": 0.015897749923169613
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Almost",
+    "size": 20000,
+    "run": 5,
+    "time": 0.017444249941036105
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "Almost",
+    "size": 20000,
+    "run": 6,
+    "time": 0.01885287498589605
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Almost",
+    "size": 20000,
+    "run": 0,
+    "time": 0.010324625065550208
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Almost",
+    "size": 20000,
+    "run": 1,
+    "time": 0.009597917087376118
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Almost",
+    "size": 20000,
+    "run": 2,
+    "time": 0.009743832983076572
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Almost",
+    "size": 20000,
+    "run": 3,
+    "time": 0.008495124988257885
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Almost",
+    "size": 20000,
+    "run": 4,
+    "time": 0.010047957999631763
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Almost",
+    "size": 20000,
+    "run": 5,
+    "time": 0.010150082991458476
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "Almost",
+    "size": 20000,
+    "run": 6,
+    "time": 0.011215749895200133
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Almost",
+    "size": 20000,
+    "run": 0,
+    "time": 0.021993875037878752
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Almost",
+    "size": 20000,
+    "run": 1,
+    "time": 0.02013579197227955
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Almost",
+    "size": 20000,
+    "run": 2,
+    "time": 0.020573249901644886
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Almost",
+    "size": 20000,
+    "run": 3,
+    "time": 0.019943916937336326
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Almost",
+    "size": 20000,
+    "run": 4,
+    "time": 0.020406375057063997
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Almost",
+    "size": 20000,
+    "run": 5,
+    "time": 0.0214074170216918
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "Almost",
+    "size": 20000,
+    "run": 6,
+    "time": 0.023830166086554527
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Almost",
+    "size": 20000,
+    "run": 0,
+    "time": 0.021285208058543503
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Almost",
+    "size": 20000,
+    "run": 1,
+    "time": 0.019770334009081125
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Almost",
+    "size": 20000,
+    "run": 2,
+    "time": 0.02074712491594255
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Almost",
+    "size": 20000,
+    "run": 3,
+    "time": 0.019545499933883548
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Almost",
+    "size": 20000,
+    "run": 4,
+    "time": 0.021343458094634116
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Almost",
+    "size": 20000,
+    "run": 5,
+    "time": 0.019944333005696535
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "Almost",
+    "size": 20000,
+    "run": 6,
+    "time": 0.020914875087328255
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Almost",
+    "size": 20000,
+    "run": 0,
+    "time": 0.021798708010464907
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Almost",
+    "size": 20000,
+    "run": 1,
+    "time": 0.020091374986805022
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Almost",
+    "size": 20000,
+    "run": 2,
+    "time": 0.020302209071815014
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Almost",
+    "size": 20000,
+    "run": 3,
+    "time": 0.019808541983366013
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Almost",
+    "size": 20000,
+    "run": 4,
+    "time": 0.020262832986190915
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Almost",
+    "size": 20000,
+    "run": 5,
+    "time": 0.02008354209829122
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "Almost",
+    "size": 20000,
+    "run": 6,
+    "time": 0.020623042015358806
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Almost",
+    "size": 20000,
+    "run": 0,
+    "time": 0.08266970794647932
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Almost",
+    "size": 20000,
+    "run": 1,
+    "time": 0.08094399992842227
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Almost",
+    "size": 20000,
+    "run": 2,
+    "time": 0.0808422090485692
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Almost",
+    "size": 20000,
+    "run": 3,
+    "time": 0.08052545797545463
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Almost",
+    "size": 20000,
+    "run": 4,
+    "time": 0.08178920799400657
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Almost",
+    "size": 20000,
+    "run": 5,
+    "time": 0.0814655419671908
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "Almost",
+    "size": 20000,
+    "run": 6,
+    "time": 0.08111920801457018
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Almost",
+    "size": 20000,
+    "run": 0,
+    "time": 0.01641154196113348
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Almost",
+    "size": 20000,
+    "run": 1,
+    "time": 0.01481054094620049
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Almost",
+    "size": 20000,
+    "run": 2,
+    "time": 0.01505958300549537
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Almost",
+    "size": 20000,
+    "run": 3,
+    "time": 0.014329792000353336
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Almost",
+    "size": 20000,
+    "run": 4,
+    "time": 0.015782624948769808
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Almost",
+    "size": 20000,
+    "run": 5,
+    "time": 0.015578208956867456
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "Almost",
+    "size": 20000,
+    "run": 6,
+    "time": 0.01576537499204278
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "TwoRuns",
+    "size": 10,
+    "run": 0,
+    "time": 2.9999064281582832e-06
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "TwoRuns",
+    "size": 10,
+    "run": 1,
+    "time": 1.6670674085617065e-06
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "TwoRuns",
+    "size": 10,
+    "run": 2,
+    "time": 1.500011421740055e-06
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "TwoRuns",
+    "size": 10,
+    "run": 3,
+    "time": 1.5419209375977516e-06
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "TwoRuns",
+    "size": 10,
+    "run": 4,
+    "time": 1.2919772416353226e-06
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "TwoRuns",
+    "size": 10,
+    "run": 5,
+    "time": 1.3329554349184036e-06
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "TwoRuns",
+    "size": 10,
+    "run": 6,
+    "time": 1.3329554349184036e-06
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "TwoRuns",
+    "size": 10,
+    "run": 0,
+    "time": 8.25000461190939e-06
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "TwoRuns",
+    "size": 10,
+    "run": 1,
+    "time": 3.875000402331352e-06
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "TwoRuns",
+    "size": 10,
+    "run": 2,
+    "time": 3.500026650726795e-06
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "TwoRuns",
+    "size": 10,
+    "run": 3,
+    "time": 3.374996595084667e-06
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "TwoRuns",
+    "size": 10,
+    "run": 4,
+    "time": 3.334018401801586e-06
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "TwoRuns",
+    "size": 10,
+    "run": 5,
+    "time": 3.5420525819063187e-06
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "TwoRuns",
+    "size": 10,
+    "run": 6,
+    "time": 3.4170225262641907e-06
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "TwoRuns",
+    "size": 10,
+    "run": 0,
+    "time": 3.00002284348011e-06
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "TwoRuns",
+    "size": 10,
+    "run": 1,
+    "time": 2.249958924949169e-06
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "TwoRuns",
+    "size": 10,
+    "run": 2,
+    "time": 2.1670712158083916e-06
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "TwoRuns",
+    "size": 10,
+    "run": 3,
+    "time": 3.2079406082630157e-06
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "TwoRuns",
+    "size": 10,
+    "run": 4,
+    "time": 2.374988980591297e-06
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "TwoRuns",
+    "size": 10,
+    "run": 5,
+    "time": 2.1669548004865646e-06
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "TwoRuns",
+    "size": 10,
+    "run": 6,
+    "time": 2.374988980591297e-06
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "TwoRuns",
+    "size": 10,
+    "run": 0,
+    "time": 3.4159747883677483e-06
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "TwoRuns",
+    "size": 10,
+    "run": 1,
+    "time": 2.374988980591297e-06
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "TwoRuns",
+    "size": 10,
+    "run": 2,
+    "time": 2.249958924949169e-06
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "TwoRuns",
+    "size": 10,
+    "run": 3,
+    "time": 2.1670712158083916e-06
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "TwoRuns",
+    "size": 10,
+    "run": 4,
+    "time": 2.2079329937696457e-06
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "TwoRuns",
+    "size": 10,
+    "run": 5,
+    "time": 2.1669548004865646e-06
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "TwoRuns",
+    "size": 10,
+    "run": 6,
+    "time": 2.2079329937696457e-06
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "TwoRuns",
+    "size": 10,
+    "run": 0,
+    "time": 4.791072569787502e-06
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "TwoRuns",
+    "size": 10,
+    "run": 1,
+    "time": 3.4580007195472717e-06
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "TwoRuns",
+    "size": 10,
+    "run": 2,
+    "time": 2.374988980591297e-06
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "TwoRuns",
+    "size": 10,
+    "run": 3,
+    "time": 2.374988980591297e-06
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "TwoRuns",
+    "size": 10,
+    "run": 4,
+    "time": 2.415967173874378e-06
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "TwoRuns",
+    "size": 10,
+    "run": 5,
+    "time": 2.374988980591297e-06
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "TwoRuns",
+    "size": 10,
+    "run": 6,
+    "time": 2.334010787308216e-06
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "TwoRuns",
+    "size": 10,
+    "run": 0,
+    "time": 9.334064088761806e-06
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "TwoRuns",
+    "size": 10,
+    "run": 1,
+    "time": 6.08398113399744e-06
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "TwoRuns",
+    "size": 10,
+    "run": 2,
+    "time": 5.667097866535187e-06
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "TwoRuns",
+    "size": 10,
+    "run": 3,
+    "time": 4.707952030003071e-06
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "TwoRuns",
+    "size": 10,
+    "run": 4,
+    "time": 4.666042514145374e-06
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "TwoRuns",
+    "size": 10,
+    "run": 5,
+    "time": 4.749977961182594e-06
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "TwoRuns",
+    "size": 10,
+    "run": 6,
+    "time": 4.875008016824722e-06
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "TwoRuns",
+    "size": 10,
+    "run": 0,
+    "time": 3.0420487746596336e-06
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "TwoRuns",
+    "size": 10,
+    "run": 1,
+    "time": 2.0420411601662636e-06
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "TwoRuns",
+    "size": 10,
+    "run": 2,
+    "time": 2.2079329937696457e-06
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "TwoRuns",
+    "size": 10,
+    "run": 3,
+    "time": 1.9168946892023087e-06
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "TwoRuns",
+    "size": 10,
+    "run": 4,
+    "time": 1.9581057131290436e-06
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "TwoRuns",
+    "size": 10,
+    "run": 5,
+    "time": 2.0419247448444366e-06
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "TwoRuns",
+    "size": 10,
+    "run": 6,
+    "time": 1.9170111045241356e-06
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "TwoRuns",
+    "size": 100,
+    "run": 0,
+    "time": 8.537503890693188e-05
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "TwoRuns",
+    "size": 100,
+    "run": 1,
+    "time": 7.879105396568775e-05
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "TwoRuns",
+    "size": 100,
+    "run": 2,
+    "time": 7.812492549419403e-05
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "TwoRuns",
+    "size": 100,
+    "run": 3,
+    "time": 7.800001185387373e-05
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "TwoRuns",
+    "size": 100,
+    "run": 4,
+    "time": 7.804203778505325e-05
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "TwoRuns",
+    "size": 100,
+    "run": 5,
+    "time": 7.804203778505325e-05
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "TwoRuns",
+    "size": 100,
+    "run": 6,
+    "time": 7.808301597833633e-05
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "TwoRuns",
+    "size": 100,
+    "run": 0,
+    "time": 2.1707965061068535e-05
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "TwoRuns",
+    "size": 100,
+    "run": 1,
+    "time": 1.8083956092596054e-05
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "TwoRuns",
+    "size": 100,
+    "run": 2,
+    "time": 1.633400097489357e-05
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "TwoRuns",
+    "size": 100,
+    "run": 3,
+    "time": 1.6417005099356174e-05
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "TwoRuns",
+    "size": 100,
+    "run": 4,
+    "time": 1.5874975360929966e-05
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "TwoRuns",
+    "size": 100,
+    "run": 5,
+    "time": 1.5082885511219501e-05
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "TwoRuns",
+    "size": 100,
+    "run": 6,
+    "time": 1.5125027857720852e-05
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "TwoRuns",
+    "size": 100,
+    "run": 0,
+    "time": 4.133302718400955e-05
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "TwoRuns",
+    "size": 100,
+    "run": 1,
+    "time": 4.199997056275606e-05
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "TwoRuns",
+    "size": 100,
+    "run": 2,
+    "time": 4.079192876815796e-05
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "TwoRuns",
+    "size": 100,
+    "run": 3,
+    "time": 3.8792029954493046e-05
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "TwoRuns",
+    "size": 100,
+    "run": 4,
+    "time": 3.870902583003044e-05
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "TwoRuns",
+    "size": 100,
+    "run": 5,
+    "time": 3.875000402331352e-05
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "TwoRuns",
+    "size": 100,
+    "run": 6,
+    "time": 3.875000402331352e-05
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "TwoRuns",
+    "size": 100,
+    "run": 0,
+    "time": 3.854208625853062e-05
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "TwoRuns",
+    "size": 100,
+    "run": 1,
+    "time": 3.845908213406801e-05
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "TwoRuns",
+    "size": 100,
+    "run": 2,
+    "time": 3.6541023291647434e-05
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "TwoRuns",
+    "size": 100,
+    "run": 3,
+    "time": 3.599992487579584e-05
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "TwoRuns",
+    "size": 100,
+    "run": 4,
+    "time": 3.587501123547554e-05
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "TwoRuns",
+    "size": 100,
+    "run": 5,
+    "time": 3.5958015359938145e-05
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "TwoRuns",
+    "size": 100,
+    "run": 6,
+    "time": 3.5917037166655064e-05
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "TwoRuns",
+    "size": 100,
+    "run": 0,
+    "time": 4.3375068344175816e-05
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "TwoRuns",
+    "size": 100,
+    "run": 1,
+    "time": 4.354200791567564e-05
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "TwoRuns",
+    "size": 100,
+    "run": 2,
+    "time": 4.1375053115189075e-05
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "TwoRuns",
+    "size": 100,
+    "run": 3,
+    "time": 3.9375037886202335e-05
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "TwoRuns",
+    "size": 100,
+    "run": 4,
+    "time": 3.9334059692919254e-05
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "TwoRuns",
+    "size": 100,
+    "run": 5,
+    "time": 3.9541046135127544e-05
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "TwoRuns",
+    "size": 100,
+    "run": 6,
+    "time": 3.937492147088051e-05
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "TwoRuns",
+    "size": 100,
+    "run": 0,
+    "time": 0.00010091601870954037
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "TwoRuns",
+    "size": 100,
+    "run": 1,
+    "time": 9.258300997316837e-05
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "TwoRuns",
+    "size": 100,
+    "run": 2,
+    "time": 9.104202035814524e-05
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "TwoRuns",
+    "size": 100,
+    "run": 3,
+    "time": 9.066693019121885e-05
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "TwoRuns",
+    "size": 100,
+    "run": 4,
+    "time": 9.020906873047352e-05
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "TwoRuns",
+    "size": 100,
+    "run": 5,
+    "time": 9.008310735225677e-05
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "TwoRuns",
+    "size": 100,
+    "run": 6,
+    "time": 9.012501686811447e-05
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "TwoRuns",
+    "size": 100,
+    "run": 0,
+    "time": 3.4250086173415184e-05
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "TwoRuns",
+    "size": 100,
+    "run": 1,
+    "time": 3.308302257210016e-05
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "TwoRuns",
+    "size": 100,
+    "run": 2,
+    "time": 3.112491685897112e-05
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "TwoRuns",
+    "size": 100,
+    "run": 3,
+    "time": 3.0250055715441704e-05
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "TwoRuns",
+    "size": 100,
+    "run": 4,
+    "time": 3.0125025659799576e-05
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "TwoRuns",
+    "size": 100,
+    "run": 5,
+    "time": 3.0166003853082657e-05
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "TwoRuns",
+    "size": 100,
+    "run": 6,
+    "time": 3.0207913368940353e-05
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "TwoRuns",
+    "size": 500,
+    "run": 0,
+    "time": 0.0021028330083936453
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "TwoRuns",
+    "size": 500,
+    "run": 1,
+    "time": 0.0020724169444292784
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "TwoRuns",
+    "size": 500,
+    "run": 2,
+    "time": 0.002013249904848635
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "TwoRuns",
+    "size": 500,
+    "run": 3,
+    "time": 0.002008749986998737
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "TwoRuns",
+    "size": 500,
+    "run": 4,
+    "time": 0.0020128749310970306
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "TwoRuns",
+    "size": 500,
+    "run": 5,
+    "time": 0.002027041045948863
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "TwoRuns",
+    "size": 500,
+    "run": 6,
+    "time": 0.0020589999621734023
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "TwoRuns",
+    "size": 500,
+    "run": 0,
+    "time": 8.983304724097252e-05
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "TwoRuns",
+    "size": 500,
+    "run": 1,
+    "time": 7.591699250042439e-05
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "TwoRuns",
+    "size": 500,
+    "run": 2,
+    "time": 6.991706322878599e-05
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "TwoRuns",
+    "size": 500,
+    "run": 3,
+    "time": 6.987503729760647e-05
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "TwoRuns",
+    "size": 500,
+    "run": 4,
+    "time": 6.933300755918026e-05
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "TwoRuns",
+    "size": 500,
+    "run": 5,
+    "time": 6.929202936589718e-05
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "TwoRuns",
+    "size": 500,
+    "run": 6,
+    "time": 6.920797750353813e-05
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "TwoRuns",
+    "size": 500,
+    "run": 0,
+    "time": 0.0003256249474361539
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "TwoRuns",
+    "size": 500,
+    "run": 1,
+    "time": 0.0003132499987259507
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "TwoRuns",
+    "size": 500,
+    "run": 2,
+    "time": 0.0003127079689875245
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "TwoRuns",
+    "size": 500,
+    "run": 3,
+    "time": 0.00031254207715392113
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "TwoRuns",
+    "size": 500,
+    "run": 4,
+    "time": 0.00031345803290605545
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "TwoRuns",
+    "size": 500,
+    "run": 5,
+    "time": 0.0003119999310001731
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "TwoRuns",
+    "size": 500,
+    "run": 6,
+    "time": 0.0003131249686703086
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "TwoRuns",
+    "size": 500,
+    "run": 0,
+    "time": 0.000336000113748014
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "TwoRuns",
+    "size": 500,
+    "run": 1,
+    "time": 0.0003012500237673521
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "TwoRuns",
+    "size": 500,
+    "run": 2,
+    "time": 0.0003007909981533885
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "TwoRuns",
+    "size": 500,
+    "run": 3,
+    "time": 0.0003000840079039335
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "TwoRuns",
+    "size": 500,
+    "run": 4,
+    "time": 0.0003223329549655318
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "TwoRuns",
+    "size": 500,
+    "run": 5,
+    "time": 0.00030329206492751837
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "TwoRuns",
+    "size": 500,
+    "run": 6,
+    "time": 0.0003006670158356428
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "TwoRuns",
+    "size": 500,
+    "run": 0,
+    "time": 0.0003037909045815468
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "TwoRuns",
+    "size": 500,
+    "run": 1,
+    "time": 0.0002963340375572443
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "TwoRuns",
+    "size": 500,
+    "run": 2,
+    "time": 0.00029699993319809437
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "TwoRuns",
+    "size": 500,
+    "run": 3,
+    "time": 0.00029800005722790956
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "TwoRuns",
+    "size": 500,
+    "run": 4,
+    "time": 0.0002959580160677433
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "TwoRuns",
+    "size": 500,
+    "run": 5,
+    "time": 0.00029858306515961885
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "TwoRuns",
+    "size": 500,
+    "run": 6,
+    "time": 0.00029558304231613874
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "TwoRuns",
+    "size": 500,
+    "run": 0,
+    "time": 0.0008343749213963747
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "TwoRuns",
+    "size": 500,
+    "run": 1,
+    "time": 0.0008550839265808463
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "TwoRuns",
+    "size": 500,
+    "run": 2,
+    "time": 0.0008356249891221523
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "TwoRuns",
+    "size": 500,
+    "run": 3,
+    "time": 0.0008745410013943911
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "TwoRuns",
+    "size": 500,
+    "run": 4,
+    "time": 0.0009342090925201774
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "TwoRuns",
+    "size": 500,
+    "run": 5,
+    "time": 0.0008325409144163132
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "TwoRuns",
+    "size": 500,
+    "run": 6,
+    "time": 0.0008365419926121831
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "TwoRuns",
+    "size": 500,
+    "run": 0,
+    "time": 0.00023308396339416504
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "TwoRuns",
+    "size": 500,
+    "run": 1,
+    "time": 0.00022379204165190458
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "TwoRuns",
+    "size": 500,
+    "run": 2,
+    "time": 0.00022387492936104536
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "TwoRuns",
+    "size": 500,
+    "run": 3,
+    "time": 0.00022370798978954554
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "TwoRuns",
+    "size": 500,
+    "run": 4,
+    "time": 0.00022362498566508293
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "TwoRuns",
+    "size": 500,
+    "run": 5,
+    "time": 0.0002233750419691205
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "TwoRuns",
+    "size": 500,
+    "run": 6,
+    "time": 0.00022554199676960707
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "TwoRuns",
+    "size": 1000,
+    "run": 0,
+    "time": 0.008796832989901304
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "TwoRuns",
+    "size": 1000,
+    "run": 1,
+    "time": 0.008604541071690619
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "TwoRuns",
+    "size": 1000,
+    "run": 2,
+    "time": 0.008498458075337112
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "TwoRuns",
+    "size": 1000,
+    "run": 3,
+    "time": 0.008494124980643392
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "TwoRuns",
+    "size": 1000,
+    "run": 4,
+    "time": 0.008640624932013452
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "TwoRuns",
+    "size": 1000,
+    "run": 5,
+    "time": 0.008495582966133952
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "TwoRuns",
+    "size": 1000,
+    "run": 6,
+    "time": 0.00851158401928842
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "TwoRuns",
+    "size": 1000,
+    "run": 0,
+    "time": 0.00016137503553181887
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "TwoRuns",
+    "size": 1000,
+    "run": 1,
+    "time": 0.000150540960021317
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "TwoRuns",
+    "size": 1000,
+    "run": 2,
+    "time": 0.00014987506438046694
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "TwoRuns",
+    "size": 1000,
+    "run": 3,
+    "time": 0.00014945806469768286
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "TwoRuns",
+    "size": 1000,
+    "run": 4,
+    "time": 0.00018795800860971212
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "TwoRuns",
+    "size": 1000,
+    "run": 5,
+    "time": 0.00015833298675715923
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "TwoRuns",
+    "size": 1000,
+    "run": 6,
+    "time": 0.000152332941070199
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "TwoRuns",
+    "size": 1000,
+    "run": 0,
+    "time": 0.0007369999075308442
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "TwoRuns",
+    "size": 1000,
+    "run": 1,
+    "time": 0.0007199589163064957
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "TwoRuns",
+    "size": 1000,
+    "run": 2,
+    "time": 0.0007211669581010938
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "TwoRuns",
+    "size": 1000,
+    "run": 3,
+    "time": 0.000722041935659945
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "TwoRuns",
+    "size": 1000,
+    "run": 4,
+    "time": 0.0007454999722540379
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "TwoRuns",
+    "size": 1000,
+    "run": 5,
+    "time": 0.0007216249359771609
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "TwoRuns",
+    "size": 1000,
+    "run": 6,
+    "time": 0.0007309169741347432
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "TwoRuns",
+    "size": 1000,
+    "run": 0,
+    "time": 0.0007124999538064003
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "TwoRuns",
+    "size": 1000,
+    "run": 1,
+    "time": 0.0007759169675409794
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "TwoRuns",
+    "size": 1000,
+    "run": 2,
+    "time": 0.0006645419634878635
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "TwoRuns",
+    "size": 1000,
+    "run": 3,
+    "time": 0.0006595830200240016
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "TwoRuns",
+    "size": 1000,
+    "run": 4,
+    "time": 0.0006599579937756062
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "TwoRuns",
+    "size": 1000,
+    "run": 5,
+    "time": 0.0006588749820366502
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "TwoRuns",
+    "size": 1000,
+    "run": 6,
+    "time": 0.0007089170394465327
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "TwoRuns",
+    "size": 1000,
+    "run": 0,
+    "time": 0.0007574160117655993
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "TwoRuns",
+    "size": 1000,
+    "run": 1,
+    "time": 0.0007045419188216329
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "TwoRuns",
+    "size": 1000,
+    "run": 2,
+    "time": 0.0008435830241069198
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "TwoRuns",
+    "size": 1000,
+    "run": 3,
+    "time": 0.0006805000593885779
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "TwoRuns",
+    "size": 1000,
+    "run": 4,
+    "time": 0.0006882919697090983
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "TwoRuns",
+    "size": 1000,
+    "run": 5,
+    "time": 0.0006761250551789999
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "TwoRuns",
+    "size": 1000,
+    "run": 6,
+    "time": 0.0006740420358255506
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "TwoRuns",
+    "size": 1000,
+    "run": 0,
+    "time": 0.0021189169492572546
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "TwoRuns",
+    "size": 1000,
+    "run": 1,
+    "time": 0.0020972919883206487
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "TwoRuns",
+    "size": 1000,
+    "run": 2,
+    "time": 0.002182665979489684
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "TwoRuns",
+    "size": 1000,
+    "run": 3,
+    "time": 0.002121084020473063
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "TwoRuns",
+    "size": 1000,
+    "run": 4,
+    "time": 0.002197040943428874
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "TwoRuns",
+    "size": 1000,
+    "run": 5,
+    "time": 0.002093459013849497
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "TwoRuns",
+    "size": 1000,
+    "run": 6,
+    "time": 0.002104500075802207
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "TwoRuns",
+    "size": 1000,
+    "run": 0,
+    "time": 0.0005453750491142273
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "TwoRuns",
+    "size": 1000,
+    "run": 1,
+    "time": 0.0005492919590324163
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "TwoRuns",
+    "size": 1000,
+    "run": 2,
+    "time": 0.000543333007954061
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "TwoRuns",
+    "size": 1000,
+    "run": 3,
+    "time": 0.0005342920776456594
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "TwoRuns",
+    "size": 1000,
+    "run": 4,
+    "time": 0.0005286670057103038
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "TwoRuns",
+    "size": 1000,
+    "run": 5,
+    "time": 0.0005280830664560199
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "TwoRuns",
+    "size": 1000,
+    "run": 6,
+    "time": 0.0005336250178515911
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "TwoRuns",
+    "size": 2500,
+    "run": 0,
+    "time": 0.054690665914677083
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "TwoRuns",
+    "size": 2500,
+    "run": 1,
+    "time": 0.05408220796380192
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "TwoRuns",
+    "size": 2500,
+    "run": 2,
+    "time": 0.053816790925338864
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "TwoRuns",
+    "size": 2500,
+    "run": 3,
+    "time": 0.05380966700613499
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "TwoRuns",
+    "size": 2500,
+    "run": 4,
+    "time": 0.05384245794266462
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "TwoRuns",
+    "size": 2500,
+    "run": 5,
+    "time": 0.054626750061288476
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "TwoRuns",
+    "size": 2500,
+    "run": 6,
+    "time": 0.053833083948120475
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "TwoRuns",
+    "size": 2500,
+    "run": 0,
+    "time": 0.0004207079764455557
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "TwoRuns",
+    "size": 2500,
+    "run": 1,
+    "time": 0.00037566595710814
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "TwoRuns",
+    "size": 2500,
+    "run": 2,
+    "time": 0.0003840840654447675
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "TwoRuns",
+    "size": 2500,
+    "run": 3,
+    "time": 0.00038454204332083464
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "TwoRuns",
+    "size": 2500,
+    "run": 4,
+    "time": 0.0003732910845428705
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "TwoRuns",
+    "size": 2500,
+    "run": 5,
+    "time": 0.0003743749111890793
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "TwoRuns",
+    "size": 2500,
+    "run": 6,
+    "time": 0.00037745898589491844
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "TwoRuns",
+    "size": 2500,
+    "run": 0,
+    "time": 0.00220729096326977
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "TwoRuns",
+    "size": 2500,
+    "run": 1,
+    "time": 0.002486499957740307
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "TwoRuns",
+    "size": 2500,
+    "run": 2,
+    "time": 0.0022430409444496036
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "TwoRuns",
+    "size": 2500,
+    "run": 3,
+    "time": 0.0022377080749720335
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "TwoRuns",
+    "size": 2500,
+    "run": 4,
+    "time": 0.0022482499480247498
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "TwoRuns",
+    "size": 2500,
+    "run": 5,
+    "time": 0.0023235830012708902
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "TwoRuns",
+    "size": 2500,
+    "run": 6,
+    "time": 0.002186457975767553
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "TwoRuns",
+    "size": 2500,
+    "run": 0,
+    "time": 0.0021062910091131926
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "TwoRuns",
+    "size": 2500,
+    "run": 1,
+    "time": 0.001972957979887724
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "TwoRuns",
+    "size": 2500,
+    "run": 2,
+    "time": 0.0019601249368861318
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "TwoRuns",
+    "size": 2500,
+    "run": 3,
+    "time": 0.0020482500549405813
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "TwoRuns",
+    "size": 2500,
+    "run": 4,
+    "time": 0.002148208091966808
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "TwoRuns",
+    "size": 2500,
+    "run": 5,
+    "time": 0.0019678330281749368
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "TwoRuns",
+    "size": 2500,
+    "run": 6,
+    "time": 0.0020225420594215393
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "TwoRuns",
+    "size": 2500,
+    "run": 0,
+    "time": 0.0020129160257056355
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "TwoRuns",
+    "size": 2500,
+    "run": 1,
+    "time": 0.0020484999986365438
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "TwoRuns",
+    "size": 2500,
+    "run": 2,
+    "time": 0.0020602080039680004
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "TwoRuns",
+    "size": 2500,
+    "run": 3,
+    "time": 0.002185625024139881
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "TwoRuns",
+    "size": 2500,
+    "run": 4,
+    "time": 0.0020379169145599008
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "TwoRuns",
+    "size": 2500,
+    "run": 5,
+    "time": 0.002047416055575013
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "TwoRuns",
+    "size": 2500,
+    "run": 6,
+    "time": 0.0020562499994412065
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "TwoRuns",
+    "size": 2500,
+    "run": 0,
+    "time": 0.007090084021911025
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "TwoRuns",
+    "size": 2500,
+    "run": 1,
+    "time": 0.007101957919076085
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "TwoRuns",
+    "size": 2500,
+    "run": 2,
+    "time": 0.0072147500468418
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "TwoRuns",
+    "size": 2500,
+    "run": 3,
+    "time": 0.006981333019211888
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "TwoRuns",
+    "size": 2500,
+    "run": 4,
+    "time": 0.007048291969113052
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "TwoRuns",
+    "size": 2500,
+    "run": 5,
+    "time": 0.006923999986611307
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "TwoRuns",
+    "size": 2500,
+    "run": 6,
+    "time": 0.007205375004559755
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "TwoRuns",
+    "size": 2500,
+    "run": 0,
+    "time": 0.001505749998614192
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "TwoRuns",
+    "size": 2500,
+    "run": 1,
+    "time": 0.0015420829877257347
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "TwoRuns",
+    "size": 2500,
+    "run": 2,
+    "time": 0.001478250022046268
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "TwoRuns",
+    "size": 2500,
+    "run": 3,
+    "time": 0.0014747499953955412
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "TwoRuns",
+    "size": 2500,
+    "run": 4,
+    "time": 0.0015939590521156788
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "TwoRuns",
+    "size": 2500,
+    "run": 5,
+    "time": 0.0014731670962646604
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "TwoRuns",
+    "size": 2500,
+    "run": 6,
+    "time": 0.0014651670353487134
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "TwoRuns",
+    "size": 5000,
+    "run": 0,
+    "time": 0.21706758299842477
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "TwoRuns",
+    "size": 5000,
+    "run": 1,
+    "time": 0.21689312509261072
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "TwoRuns",
+    "size": 5000,
+    "run": 2,
+    "time": 0.21722629200667143
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "TwoRuns",
+    "size": 5000,
+    "run": 3,
+    "time": 0.21609499992337078
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "TwoRuns",
+    "size": 5000,
+    "run": 4,
+    "time": 0.2166506249923259
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "TwoRuns",
+    "size": 5000,
+    "run": 5,
+    "time": 0.21784804097842425
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "TwoRuns",
+    "size": 5000,
+    "run": 6,
+    "time": 0.21782479097601026
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "TwoRuns",
+    "size": 5000,
+    "run": 0,
+    "time": 0.0007847500964999199
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "TwoRuns",
+    "size": 5000,
+    "run": 1,
+    "time": 0.0007622499251738191
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "TwoRuns",
+    "size": 5000,
+    "run": 2,
+    "time": 0.0007650000043213367
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "TwoRuns",
+    "size": 5000,
+    "run": 3,
+    "time": 0.0007597500225529075
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "TwoRuns",
+    "size": 5000,
+    "run": 4,
+    "time": 0.0007527089910581708
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "TwoRuns",
+    "size": 5000,
+    "run": 5,
+    "time": 0.0007606669096276164
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "TwoRuns",
+    "size": 5000,
+    "run": 6,
+    "time": 0.0007605419959872961
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "TwoRuns",
+    "size": 5000,
+    "run": 0,
+    "time": 0.005009958986192942
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "TwoRuns",
+    "size": 5000,
+    "run": 1,
+    "time": 0.004812000086531043
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "TwoRuns",
+    "size": 5000,
+    "run": 2,
+    "time": 0.005026041995733976
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "TwoRuns",
+    "size": 5000,
+    "run": 3,
+    "time": 0.004890417098067701
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "TwoRuns",
+    "size": 5000,
+    "run": 4,
+    "time": 0.004936250043101609
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "TwoRuns",
+    "size": 5000,
+    "run": 5,
+    "time": 0.004842416034080088
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "TwoRuns",
+    "size": 5000,
+    "run": 6,
+    "time": 0.004874125006608665
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "TwoRuns",
+    "size": 5000,
+    "run": 0,
+    "time": 0.004350167000666261
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "TwoRuns",
+    "size": 5000,
+    "run": 1,
+    "time": 0.004626500071026385
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "TwoRuns",
+    "size": 5000,
+    "run": 2,
+    "time": 0.0044249159982427955
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "TwoRuns",
+    "size": 5000,
+    "run": 3,
+    "time": 0.0043553749565035105
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "TwoRuns",
+    "size": 5000,
+    "run": 4,
+    "time": 0.004415667033754289
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "TwoRuns",
+    "size": 5000,
+    "run": 5,
+    "time": 0.004395957919768989
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "TwoRuns",
+    "size": 5000,
+    "run": 6,
+    "time": 0.004389042034745216
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "TwoRuns",
+    "size": 5000,
+    "run": 0,
+    "time": 0.004487958969548345
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "TwoRuns",
+    "size": 5000,
+    "run": 1,
+    "time": 0.0047388330567628145
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "TwoRuns",
+    "size": 5000,
+    "run": 2,
+    "time": 0.004523540963418782
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "TwoRuns",
+    "size": 5000,
+    "run": 3,
+    "time": 0.004624249995686114
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "TwoRuns",
+    "size": 5000,
+    "run": 4,
+    "time": 0.004677082994021475
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "TwoRuns",
+    "size": 5000,
+    "run": 5,
+    "time": 0.0045580839505419135
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "TwoRuns",
+    "size": 5000,
+    "run": 6,
+    "time": 0.004466499900445342
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "TwoRuns",
+    "size": 5000,
+    "run": 0,
+    "time": 0.0167768340324983
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "TwoRuns",
+    "size": 5000,
+    "run": 1,
+    "time": 0.016792958020232618
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "TwoRuns",
+    "size": 5000,
+    "run": 2,
+    "time": 0.016889333026483655
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "TwoRuns",
+    "size": 5000,
+    "run": 3,
+    "time": 0.01679383299779147
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "TwoRuns",
+    "size": 5000,
+    "run": 4,
+    "time": 0.016527291969396174
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "TwoRuns",
+    "size": 5000,
+    "run": 5,
+    "time": 0.0165591660188511
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "TwoRuns",
+    "size": 5000,
+    "run": 6,
+    "time": 0.01653758401516825
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "TwoRuns",
+    "size": 5000,
+    "run": 0,
+    "time": 0.0033341250382363796
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "TwoRuns",
+    "size": 5000,
+    "run": 1,
+    "time": 0.003423082991503179
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "TwoRuns",
+    "size": 5000,
+    "run": 2,
+    "time": 0.0034633330069482327
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "TwoRuns",
+    "size": 5000,
+    "run": 3,
+    "time": 0.0034387499326840043
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "TwoRuns",
+    "size": 5000,
+    "run": 4,
+    "time": 0.0033082080772146583
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "TwoRuns",
+    "size": 5000,
+    "run": 5,
+    "time": 0.0036578329745680094
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "TwoRuns",
+    "size": 5000,
+    "run": 6,
+    "time": 0.0033247920218855143
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "TwoRuns",
+    "size": 7500,
+    "run": 0,
+    "time": 0.48505274998024106
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "TwoRuns",
+    "size": 7500,
+    "run": 1,
+    "time": 0.4834317920031026
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "TwoRuns",
+    "size": 7500,
+    "run": 2,
+    "time": 0.484137500054203
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "TwoRuns",
+    "size": 7500,
+    "run": 3,
+    "time": 0.48315179208293557
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "TwoRuns",
+    "size": 7500,
+    "run": 4,
+    "time": 0.49286150000989437
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "TwoRuns",
+    "size": 7500,
+    "run": 5,
+    "time": 0.4967151670716703
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "TwoRuns",
+    "size": 7500,
+    "run": 6,
+    "time": 0.495994208031334
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "TwoRuns",
+    "size": 7500,
+    "run": 0,
+    "time": 0.0012053329264745116
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "TwoRuns",
+    "size": 7500,
+    "run": 1,
+    "time": 0.001170207979157567
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "TwoRuns",
+    "size": 7500,
+    "run": 2,
+    "time": 0.001166124944575131
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "TwoRuns",
+    "size": 7500,
+    "run": 3,
+    "time": 0.0011544589651748538
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "TwoRuns",
+    "size": 7500,
+    "run": 4,
+    "time": 0.0011653749970719218
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "TwoRuns",
+    "size": 7500,
+    "run": 5,
+    "time": 0.0013003330677747726
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "TwoRuns",
+    "size": 7500,
+    "run": 6,
+    "time": 0.001177166006527841
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "TwoRuns",
+    "size": 7500,
+    "run": 0,
+    "time": 0.007791792042553425
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "TwoRuns",
+    "size": 7500,
+    "run": 1,
+    "time": 0.007922457996755838
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "TwoRuns",
+    "size": 7500,
+    "run": 2,
+    "time": 0.007883624988608062
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "TwoRuns",
+    "size": 7500,
+    "run": 3,
+    "time": 0.00805195898283273
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "TwoRuns",
+    "size": 7500,
+    "run": 4,
+    "time": 0.008263082941994071
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "TwoRuns",
+    "size": 7500,
+    "run": 5,
+    "time": 0.008003041963092983
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "TwoRuns",
+    "size": 7500,
+    "run": 6,
+    "time": 0.008055791025981307
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "TwoRuns",
+    "size": 7500,
+    "run": 0,
+    "time": 0.007196584017947316
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "TwoRuns",
+    "size": 7500,
+    "run": 1,
+    "time": 0.007197500090114772
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "TwoRuns",
+    "size": 7500,
+    "run": 2,
+    "time": 0.007003040984272957
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "TwoRuns",
+    "size": 7500,
+    "run": 3,
+    "time": 0.006998124998062849
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "TwoRuns",
+    "size": 7500,
+    "run": 4,
+    "time": 0.0069966670125722885
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "TwoRuns",
+    "size": 7500,
+    "run": 5,
+    "time": 0.006788583006709814
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "TwoRuns",
+    "size": 7500,
+    "run": 6,
+    "time": 0.007168957963585854
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "TwoRuns",
+    "size": 7500,
+    "run": 0,
+    "time": 0.007562082959339023
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "TwoRuns",
+    "size": 7500,
+    "run": 1,
+    "time": 0.007584917009808123
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "TwoRuns",
+    "size": 7500,
+    "run": 2,
+    "time": 0.007380625000223517
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "TwoRuns",
+    "size": 7500,
+    "run": 3,
+    "time": 0.007547707995399833
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "TwoRuns",
+    "size": 7500,
+    "run": 4,
+    "time": 0.007539457990787923
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "TwoRuns",
+    "size": 7500,
+    "run": 5,
+    "time": 0.007486999966204166
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "TwoRuns",
+    "size": 7500,
+    "run": 6,
+    "time": 0.007272999966517091
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "TwoRuns",
+    "size": 7500,
+    "run": 0,
+    "time": 0.029552790918387473
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "TwoRuns",
+    "size": 7500,
+    "run": 1,
+    "time": 0.029303583898581564
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "TwoRuns",
+    "size": 7500,
+    "run": 2,
+    "time": 0.02902587503194809
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "TwoRuns",
+    "size": 7500,
+    "run": 3,
+    "time": 0.028300332953222096
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "TwoRuns",
+    "size": 7500,
+    "run": 4,
+    "time": 0.02957900008186698
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "TwoRuns",
+    "size": 7500,
+    "run": 5,
+    "time": 0.03003695805091411
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "TwoRuns",
+    "size": 7500,
+    "run": 6,
+    "time": 0.030832166085019708
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "TwoRuns",
+    "size": 7500,
+    "run": 0,
+    "time": 0.007059499970637262
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "TwoRuns",
+    "size": 7500,
+    "run": 1,
+    "time": 0.007347207982093096
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "TwoRuns",
+    "size": 7500,
+    "run": 2,
+    "time": 0.012873291969299316
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "TwoRuns",
+    "size": 7500,
+    "run": 3,
+    "time": 0.005548875080421567
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "TwoRuns",
+    "size": 7500,
+    "run": 4,
+    "time": 0.006330124917440116
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "TwoRuns",
+    "size": 7500,
+    "run": 5,
+    "time": 0.005351791973225772
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "TwoRuns",
+    "size": 7500,
+    "run": 6,
+    "time": 0.005607999977655709
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "TwoRuns",
+    "size": 10000,
+    "run": 0,
+    "time": 0.9119554170174524
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "TwoRuns",
+    "size": 10000,
+    "run": 1,
+    "time": 0.911196583067067
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "TwoRuns",
+    "size": 10000,
+    "run": 2,
+    "time": 0.8862101670820266
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "TwoRuns",
+    "size": 10000,
+    "run": 3,
+    "time": 0.884476708015427
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "TwoRuns",
+    "size": 10000,
+    "run": 4,
+    "time": 0.8828962920233607
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "TwoRuns",
+    "size": 10000,
+    "run": 5,
+    "time": 0.8702556249918416
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "TwoRuns",
+    "size": 10000,
+    "run": 6,
+    "time": 0.8714222910348326
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "TwoRuns",
+    "size": 10000,
+    "run": 0,
+    "time": 0.0015522079775109887
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "TwoRuns",
+    "size": 10000,
+    "run": 1,
+    "time": 0.0015113749541342258
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "TwoRuns",
+    "size": 10000,
+    "run": 2,
+    "time": 0.0015087079955264926
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "TwoRuns",
+    "size": 10000,
+    "run": 3,
+    "time": 0.0015168749960139394
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "TwoRuns",
+    "size": 10000,
+    "run": 4,
+    "time": 0.0016551249427720904
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "TwoRuns",
+    "size": 10000,
+    "run": 5,
+    "time": 0.0015243329107761383
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "TwoRuns",
+    "size": 10000,
+    "run": 6,
+    "time": 0.0015237920451909304
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "TwoRuns",
+    "size": 10000,
+    "run": 0,
+    "time": 0.01098737504798919
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "TwoRuns",
+    "size": 10000,
+    "run": 1,
+    "time": 0.010770666995085776
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "TwoRuns",
+    "size": 10000,
+    "run": 2,
+    "time": 0.010585583979263902
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "TwoRuns",
+    "size": 10000,
+    "run": 3,
+    "time": 0.010469250031746924
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "TwoRuns",
+    "size": 10000,
+    "run": 4,
+    "time": 0.010515915928408504
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "TwoRuns",
+    "size": 10000,
+    "run": 5,
+    "time": 0.010751500027254224
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "TwoRuns",
+    "size": 10000,
+    "run": 6,
+    "time": 0.010677834041416645
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "TwoRuns",
+    "size": 10000,
+    "run": 0,
+    "time": 0.009858250035904348
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "TwoRuns",
+    "size": 10000,
+    "run": 1,
+    "time": 0.009499792009592056
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "TwoRuns",
+    "size": 10000,
+    "run": 2,
+    "time": 0.009563000057823956
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "TwoRuns",
+    "size": 10000,
+    "run": 3,
+    "time": 0.009518541977740824
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "TwoRuns",
+    "size": 10000,
+    "run": 4,
+    "time": 0.009549624985083938
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "TwoRuns",
+    "size": 10000,
+    "run": 5,
+    "time": 0.010151583002880216
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "TwoRuns",
+    "size": 10000,
+    "run": 6,
+    "time": 0.009633749956265092
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "TwoRuns",
+    "size": 10000,
+    "run": 0,
+    "time": 0.010054499958641827
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "TwoRuns",
+    "size": 10000,
+    "run": 1,
+    "time": 0.010093500022776425
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "TwoRuns",
+    "size": 10000,
+    "run": 2,
+    "time": 0.010072457953356206
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "TwoRuns",
+    "size": 10000,
+    "run": 3,
+    "time": 0.010345458053052425
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "TwoRuns",
+    "size": 10000,
+    "run": 4,
+    "time": 0.009910166962072253
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "TwoRuns",
+    "size": 10000,
+    "run": 5,
+    "time": 0.01009474997408688
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "TwoRuns",
+    "size": 10000,
+    "run": 6,
+    "time": 0.009963291930034757
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "TwoRuns",
+    "size": 10000,
+    "run": 0,
+    "time": 0.0399815000128001
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "TwoRuns",
+    "size": 10000,
+    "run": 1,
+    "time": 0.03879091702401638
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "TwoRuns",
+    "size": 10000,
+    "run": 2,
+    "time": 0.03848083293996751
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "TwoRuns",
+    "size": 10000,
+    "run": 3,
+    "time": 0.03885316592641175
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "TwoRuns",
+    "size": 10000,
+    "run": 4,
+    "time": 0.038825124967843294
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "TwoRuns",
+    "size": 10000,
+    "run": 5,
+    "time": 0.03892962506506592
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "TwoRuns",
+    "size": 10000,
+    "run": 6,
+    "time": 0.0388148749480024
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "TwoRuns",
+    "size": 10000,
+    "run": 0,
+    "time": 0.007228125003166497
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "TwoRuns",
+    "size": 10000,
+    "run": 1,
+    "time": 0.006978375022299588
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "TwoRuns",
+    "size": 10000,
+    "run": 2,
+    "time": 0.007085459074005485
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "TwoRuns",
+    "size": 10000,
+    "run": 3,
+    "time": 0.006969542009755969
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "TwoRuns",
+    "size": 10000,
+    "run": 4,
+    "time": 0.006927957991138101
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "TwoRuns",
+    "size": 10000,
+    "run": 5,
+    "time": 0.006997874937951565
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "TwoRuns",
+    "size": 10000,
+    "run": 6,
+    "time": 0.006931999931111932
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "TwoRuns",
+    "size": 20000,
+    "run": 0,
+    "time": 3.5577024170197546
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "TwoRuns",
+    "size": 20000,
+    "run": 1,
+    "time": 3.5888184589566663
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "TwoRuns",
+    "size": 20000,
+    "run": 2,
+    "time": 3.489621457993053
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "TwoRuns",
+    "size": 20000,
+    "run": 3,
+    "time": 3.622565875062719
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "TwoRuns",
+    "size": 20000,
+    "run": 4,
+    "time": 3.602076584007591
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "TwoRuns",
+    "size": 20000,
+    "run": 5,
+    "time": 3.447642332990654
+  },
+  {
+    "algorithm": "Insertion",
+    "dist": "TwoRuns",
+    "size": 20000,
+    "run": 6,
+    "time": 3.571287458995357
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "TwoRuns",
+    "size": 20000,
+    "run": 0,
+    "time": 0.0032252910314127803
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "TwoRuns",
+    "size": 20000,
+    "run": 1,
+    "time": 0.0034647079883143306
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "TwoRuns",
+    "size": 20000,
+    "run": 2,
+    "time": 0.003054084023460746
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "TwoRuns",
+    "size": 20000,
+    "run": 3,
+    "time": 0.0030407499289140105
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "TwoRuns",
+    "size": 20000,
+    "run": 4,
+    "time": 0.0033427500165998936
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "TwoRuns",
+    "size": 20000,
+    "run": 5,
+    "time": 0.0032005420653149486
+  },
+  {
+    "algorithm": "TimSort",
+    "dist": "TwoRuns",
+    "size": 20000,
+    "run": 6,
+    "time": 0.0030994160333648324
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "TwoRuns",
+    "size": 20000,
+    "run": 0,
+    "time": 0.023255791049450636
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "TwoRuns",
+    "size": 20000,
+    "run": 1,
+    "time": 0.023449999978765845
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "TwoRuns",
+    "size": 20000,
+    "run": 2,
+    "time": 0.023564749979414046
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "TwoRuns",
+    "size": 20000,
+    "run": 3,
+    "time": 0.024647000012919307
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "TwoRuns",
+    "size": 20000,
+    "run": 4,
+    "time": 0.024867458967491984
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "TwoRuns",
+    "size": 20000,
+    "run": 5,
+    "time": 0.024398084031417966
+  },
+  {
+    "algorithm": "Shell-Hibbard",
+    "dist": "TwoRuns",
+    "size": 20000,
+    "run": 6,
+    "time": 0.02360558300279081
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "TwoRuns",
+    "size": 20000,
+    "run": 0,
+    "time": 0.02129354199860245
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "TwoRuns",
+    "size": 20000,
+    "run": 1,
+    "time": 0.021525666932575405
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "TwoRuns",
+    "size": 20000,
+    "run": 2,
+    "time": 0.02129808289464563
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "TwoRuns",
+    "size": 20000,
+    "run": 3,
+    "time": 0.020685791037976742
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "TwoRuns",
+    "size": 20000,
+    "run": 4,
+    "time": 0.021507791010662913
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "TwoRuns",
+    "size": 20000,
+    "run": 5,
+    "time": 0.02069720800500363
+  },
+  {
+    "algorithm": "Shell-Sedgewick",
+    "dist": "TwoRuns",
+    "size": 20000,
+    "run": 6,
+    "time": 0.020842500030994415
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "TwoRuns",
+    "size": 20000,
+    "run": 0,
+    "time": 0.021944958018139005
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "TwoRuns",
+    "size": 20000,
+    "run": 1,
+    "time": 0.023381166043691337
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "TwoRuns",
+    "size": 20000,
+    "run": 2,
+    "time": 0.023917667102068663
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "TwoRuns",
+    "size": 20000,
+    "run": 3,
+    "time": 0.021757083013653755
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "TwoRuns",
+    "size": 20000,
+    "run": 4,
+    "time": 0.021214167005382478
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "TwoRuns",
+    "size": 20000,
+    "run": 5,
+    "time": 0.021268042037263513
+  },
+  {
+    "algorithm": "Shell-Powers2+1",
+    "dist": "TwoRuns",
+    "size": 20000,
+    "run": 6,
+    "time": 0.021242624963633716
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "TwoRuns",
+    "size": 20000,
+    "run": 0,
+    "time": 0.09963441709987819
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "TwoRuns",
+    "size": 20000,
+    "run": 1,
+    "time": 0.09315729199443012
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "TwoRuns",
+    "size": 20000,
+    "run": 2,
+    "time": 0.09186712501104921
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "TwoRuns",
+    "size": 20000,
+    "run": 3,
+    "time": 0.09079491603188217
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "TwoRuns",
+    "size": 20000,
+    "run": 4,
+    "time": 0.08938054204918444
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "TwoRuns",
+    "size": 20000,
+    "run": 5,
+    "time": 0.08971987501718104
+  },
+  {
+    "algorithm": "Shell-3Smooth",
+    "dist": "TwoRuns",
+    "size": 20000,
+    "run": 6,
+    "time": 0.08908029098529369
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "TwoRuns",
+    "size": 20000,
+    "run": 0,
+    "time": 0.01644295791629702
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "TwoRuns",
+    "size": 20000,
+    "run": 1,
+    "time": 0.01635383302345872
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "TwoRuns",
+    "size": 20000,
+    "run": 2,
+    "time": 0.01652750000357628
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "TwoRuns",
+    "size": 20000,
+    "run": 3,
+    "time": 0.01626666693482548
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "TwoRuns",
+    "size": 20000,
+    "run": 4,
+    "time": 0.016070750076323748
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "TwoRuns",
+    "size": 20000,
+    "run": 5,
+    "time": 0.01577741710934788
+  },
+  {
+    "algorithm": "Shell-Knuth",
+    "dist": "TwoRuns",
+    "size": 20000,
+    "run": 6,
+    "time": 0.01601583301089704
+  }
+]

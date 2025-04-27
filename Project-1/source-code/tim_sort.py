@@ -118,7 +118,3 @@ def tim_sort(a: List[int]) -> None:
         stack[-2:] = [(s2, e1)]
 
 
-if __name__ == "__main__":
-    data = [5, 2, 9, 1, 5, 6, 3, 8, 7, 4]
-    tim_sort(data)
-    print(data)  # [1,2,3,4,5,5,6,7,8,9]
