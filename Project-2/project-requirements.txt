@@ -1,0 +1,16 @@
+Project 2 involves testing various bin packing algorithms experimentally to determine the quality of the solutions they produce. The specific bin-packing algorithms you should implement are the following five algorithms (please see the course notes for details on these algorithms):
+
+    Next Fit (NF)
+    First Fit (FF)
+    Best Fit (BF)
+    First Fit Decreasing (FFD)
+    Best Fit Decreasing (BFD)
+
+For Phase 1 of Project 2, you will need to submit your source code, implementing each of the above algorithms, electronically to Gradescope using the course Gradescope link
+
+Please use the supplied files, requirements.py
+Download requirements.py and zipzip_tree.py Download zipzip_tree.py, to define your functions. next_fit.py Download next_fit.py is provided as an example. Your source code will be auto-graded, both for the bin-packing algorithms and your zip-zip tree data structure. If you have any questions about these files, please ask the TA or the Reader. Please test your code using the file project2_tests.py
+
+Download project2_tests.py.
+
+Note: For your implementations of First Fit and Best Fit (including the FFD and BFD versions), you must implement these methods to run in O(N log N) expected time. Moreover, your solutions must use a balanced binary search tree known as a zip-zip tree (please see the course video and notes for details) and you must implement this data structure yourself, not from a library or source code downloaded from a friend or from the Internet or generative AI.
