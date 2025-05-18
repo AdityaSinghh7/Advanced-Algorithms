@@ -1,5 +1,6 @@
 from zipzip_tree import ZipZipTree, Rank
 
+
 def merge_sort(nums: list[float]):
     n = len(nums)
     if n > 1:
@@ -9,6 +10,7 @@ def merge_sort(nums: list[float]):
         merge_sort(S1)
         merge_sort(S2)
         merge(nums, S1, S2)
+
 
 def merge(nums: list[float], S1: list[float], S2: list[float]):
     i = j = k = 0
@@ -28,6 +30,7 @@ def merge(nums: list[float], S1: list[float], S2: list[float]):
         nums[k] = S2[j]
         j += 1
         k += 1
+
 
 def best_fit(items: list[float], assignment: list[int], free_space: list[float]):
     bins = ZipZipTree(len(items))
@@ -55,6 +58,7 @@ def best_fit(items: list[float], assignment: list[int], free_space: list[float])
             bins.insert((new_free_space, current_bin_idx), current_bin_idx)
         assignment[i] = current_bin_idx
     return assignment
+
 
 def best_fit_decreasing(items: list[float], assignment: list[int], free_space: list[float]):
     merge_sort(items)
