@@ -1,0 +1,19 @@
+Project 3 involves testing various graph algorithms experimentally to determine properties of models of real-world networks. The specific graph algorithms you should implement are the following three algorithms (please see the course notes for details on these algorithms):
+
+    Diameter algorithm, that is, as best is reasonably possible, determine the length of a longest path in the graph.
+    Clustering-coefficient algorithm, that is, determine the ratio of three times the number of triangles over the number of paths of length 2.
+    Degree-distribution algorithm, that is, determine for each possible degree, the number of vertices in the graph with that degree.
+
+You need to test each algorithm on graphs of the following type (depending on your student ID):
+
+    If your student ID is an odd number, you should test the above algorithms on Erdos-Renyi random graphs, G(n,p), with p = 2(ln n)/n, where "ln n" denotes the natural logarithm of n.
+    If your student ID is an even number, you should test the above algorithms on Barabasi-Albert random graphs, generated with the parameter d = 5 as the number of neighbors each new vertex chooses.
+
+You should determine the diameter and clustering coefficients of multiple random graphs of length n.
+
+Please use the supplied files, requirements.py
+Download requirements.py, graph.py Download graph.py, and graph_algorithms.py Download graph_algorithms.py to define your functions. Your source code will be auto-graded, both for the graph data structure and your graph algorithms. If you have any questions about these files, please ask the TA or the Reader. You may test your code using the file project3_tests.py
+
+Download project3_tests.py.
+
+There will be 10 points of extra credit available to students who implement and test both types of graph models, Erdos-Renyi and Barabasi-Albert, including plots and analysis in their report for both types.
